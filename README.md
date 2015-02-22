@@ -1,4 +1,5 @@
 Virtually Benevolent
 ====================
 
-Michael Stanclift: VCAP, EMCIE, CCNA | #CiscoChampion #vExpert
+Michael Stanclift: VCAP-DCA/DTA, VCP-NV, CCNA-DC, EMCIE
+[@vmstan](https://twitter.com/@vmstan)
