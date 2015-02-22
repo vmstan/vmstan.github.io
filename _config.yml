@@ -1,0 +1,28 @@
+# Dependencies
+markdown:            kramdown
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:year/:month/:day/:title/
+relative_permalinks: true
+
+# Setup
+title:               "Virtually Benovolent"
+tagline:             "Michael Stanclift"
+description:         "VCAP, CCNA, EMCIE"
+url:                 http://vmstan.github.io
+baseurl:             /
+paginate:            10
+
+# About/contact
+author:
+  name:              Michael Stanclift
+  url:               http://vmstan.com
+  email:             mx@vmstan.com
+  github:            vmstan
+  twitter:           vmstan
+
+# Custom vars
+version:             1.0.0
