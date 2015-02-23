@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               "Virtually Benevolent"
-tagline:             ""
-description:         "Michael Stanclift: VCAP, CCNA, EMCIE"
+tagline:             "Michael Stanclift"
+description:         "Senior Engineer for AOS in Kansas City #VMwarevExpert #CiscoChampion"
 url:                 http://vmstan.github.io
 baseurl:             /
 paginate:            10
