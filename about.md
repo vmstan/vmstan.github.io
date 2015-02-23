@@ -3,28 +3,43 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This is all about me, Michael Stanclift, virtualization and storage consultant, technology enthusiast and professional geek. I live in Kansas City suburbs. When I get some more time, I’ll tell you more about how awesome I am.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+(Note: Objects in mirror may not be as awesome as they appear.)
 
-There are currently two themes built on Poole:
+#### Certifications
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* VMware Certified Advanced Professional, Data Center Administration
+* VMware Certified Advanced Professional, Desktop Administration
+* VMware Certified Professional, Network Virtualization
+* VMware Certified Professional, Data Center Virtualization
+* VMware Certified Professional, Desktop Technologies
+* VMware Certified Associate, Cloud
+* EMC Implementation Engineer, Isilon Specialist
+* EMC Implementation Engineer, VNX Solutions Specialist
+* EMC Implementation Engineer, RecoverPoint Specialist
+* EMC Information Storage Associate
+* Cisco Unified Computing Technology Support Specialist
+* Cisco Certified Networking Associate, Data Center
+* Cisco Certified Entry Networking Technician
+* Certified Meraki Networking Associate
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+#### Awards
 
-## Setup
+* VMware vExpert 2013, 2014, 2015
+* Cisco Champion 2015
+* Computerworld Honors Program, Laureate Award 2009
 
-Some fun facts about the setup of this project include:
+#### Experience
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Since fall 2011 I’ve been employed as an implementation engineer with [AOS](http://www.aos5.com) in Overland Park, Kansas. Prior to that I worked as a system administrator for [Perceptive Software](http://www.perceptivesoftware.com), and before that I worked as an network analyst for [Rockhurst University](http://www.rockhurst.edu).
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+While working for RUCS during the summer of 2008, I spearheaded their VMware based Virtual Desktop Infrastructure deployment, which rolled out hundreds of VDI based thin clients to all campus computer labs. This project ended up garnering the attention of various vendors and partners, as well as the local and tech press, and was later featured in publications and case studies. This led to world wide attention, generating requests for my advice on virtual desktop from other schools (and even some companies) from as far away as Fiji. 
 
-Thanks for reading!
+#### Virtually Benevolent
+
+This blog is built with Jekyll and published on [GitHub Pages](https://pages.github.com). Every article is written in [Markdown](http://daringfireball.net/projects/markdown/).
+
+All of the content on this site is made available at no charge, for the benefit of everyone, but please don’t reproduce the entire content (or very substantial portions) of any article without linking back to this site and providing proper attribution.
+
+I (currently) don't have any advertising on the site but I'm open to accepting targeted sponsorships. Please contact me at one of the methods listed above if you're interested.
