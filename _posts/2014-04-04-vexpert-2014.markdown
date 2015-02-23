@@ -1,0 +1,9 @@
+---
+layout: post
+title: vExpert 2014
+date: '2014-04-04 20:22:50'
+---
+
+I would feel lacking in my duties if I didn't blog about the fact I've been selected as a VMware vExpert for the second year now.
+
+[Full list here.](http://blogs.vmware.com/vmtn/2014/04/vexpert-2014-announcement.html)

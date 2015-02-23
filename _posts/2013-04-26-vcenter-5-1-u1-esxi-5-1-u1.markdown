@@ -1,0 +1,33 @@
+---
+layout: post
+title: vCenter 5.1 U1 & ESXi 5.1 U1
+date: '2013-04-26 17:00:00'
+---
+
+Last night VMware dropped major updates for both vCenter and ESXi 5.1.
+
+After reviewing both sets of release notes ([vCenter](http://www.vmware.com/support/vsphere5/doc/vsphere-esxi-51u1-release-notes.html)/[ESXi](http://www.vmware.com/support/vsphere5/doc/vsphere-esxi-51u1-release-notes.html)) here are my favorite changes:
+
+  * vCenter Server now supports running on Windows Server 2012.
+  * vCenter Server now supports Microsoft SQL Server 2012.
+  * vCenter Server now supports guest customization of Windows 8 & Windows Server 2012.
+  * vCenter Essentials no longer enforces vRAM usage limit of 192 GB.
+  * vCenter Server is now once again capable of renaming the underlying folders and VMDKs after a Storage vMotion operations. This feature was also added back to vCenter Server 5.0 U2. (To enable this feature you need to configure the advanced settings in vCenter Server and set the value to the provisioning.relocate.enableRename parameter to true.)
+  * vSphere Web Client now correctly displays WWNN and WWPN values for FC HBAs.
+  * Because nothing can escape Java updates, the Oracle JRE used by vCenter has been updated to version 1.6.0_37, which addresses multiple security issues.
+  * Corrected an issue where SQL Server dynamic ports prohibited vCenter Server and vCenter Single Sign On services from starting.
+  * Corrected an issue where performance history for past year might contain only 30 days of information in vSphere 5.1.
+  * In addition, where vSphere 5.1 Web Client advanced performance charts  took several minutes to load, this has been corrected as well.
+  * Corrected an issue where Virtual Machine snapshot size (GB) and VM Total Size on Disk (GB) alarms were triggered incorrectly.
+  * Corrected an issue where you were unable to unmount or remove a datastore located in an HA cluster without first disabling storage heartbeats.
+  * Corrected an issue with HA where machines would fail to power on after host loss, even though Admission Control was disabled.
+  * Plugging a USB keyboard or mouse into some HP servers running ESXi 5.1 previously caused a PSOD (purple screen of death), this has been corrected.
+  * Virtual machines running Windows Server 2003 R2 x64 on hosts with vShield Endpoint may result in a BSOD (blue screen of death), this has also been corrected.
+  * Previously, when you upgraded an ESXi host from version 4.x to 5.x, the value of Syslog.global.logDir and Syslog.global.logHost may not have carried over.
+  * When you perform an upgrade from ESXi 5.0 to ESXi 5.1, the ESXi installer and vSphere Update Manager will no longer display the warning messages about removing third party VIBs.
+  * Likewise, when you upgrade from ESX Server 4.0 Update 4 to ESXi Server 5.x , the error about "Password for user vpxuser was not set with MD5 encryption" will no longer be an issue.
+  * Issues powering on virtual machines with more than 18 virtual disks greater than 256GB should be mitigated, due to increased heap size.
+  * Microsoft Windows Server 2012 virtual machines will no longer report back as Microsoft Windows 8 in inventory, after installing VMware Tools.
+  * If a newer version of the Microsoft Visual C++ runtime library is available on a virtual machine, VMware Tools no longer installs an older version.
+  
+Certainly a worthy update, as few of these make me a lot more comfortable about rolling out 5.1 to some customers where 5.0 (or older) is still in use.
