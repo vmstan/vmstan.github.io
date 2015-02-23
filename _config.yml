@@ -1,15 +1,15 @@
 # Dependencies
-markdown:            kramdown
+markdown:            redcarpet
 highlighter:         pygments
 
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /:year/:month/:day/:title/
+permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               "Virtually Benovolent"
+title:               "Virtually Benevolent"
 tagline:             "Michael Stanclift"
 description:         "VCAP, CCNA, EMCIE"
 url:                 http://vmstan.github.io
