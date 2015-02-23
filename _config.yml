@@ -9,9 +9,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               "@vmstan"
+title:               "Virtually Benevolent"
 tagline:             ""
-description:         "Virtually Benevolent"
+description:         "Michael Stanclift: VCAP, CCNA, EMCIE"
 url:                 http://vmstan.github.io
 baseurl:             /
 paginate:            10
@@ -23,6 +23,10 @@ author:
   email:             mx@vmstan.com
   github:            vmstan
   twitter:           vmstan
+  linkedin:          stanclift
 
 # Custom vars
-version:             1.0.0
+version:             1.0
+
+github:
+  repo:           https://github.com/vmstan/
