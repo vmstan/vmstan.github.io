@@ -15,6 +15,9 @@ description:         "Michael Stanclift: Senior Engineer for AOS in Kansas City.
 url:                 http://vmstan.github.io
 baseurl:             /
 paginate:            10
+logo: false
+domain_name: 		http://vmstan.github.io
+google_analytics: 	UA-XXXXXXXX-X
 
 # About/contact
 author:
