@@ -1,6 +1,6 @@
 ---
-layout: "post"
-title: "Blog Engineering"
+layout: post
+title: Blog Engineering
 ---
 
 I spend a considerable amount of time and effort considering the infrastructure and engine that powers this blog, far more than I've ever spent contributing actual content. 

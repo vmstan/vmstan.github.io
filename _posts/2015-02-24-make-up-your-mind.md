@@ -1,6 +1,6 @@
 ---
-layout: "post"
-title: "Make Up Your Mind"
+layout: post
+title: Make Up Your Mind
 ---
 
 Still playing with GitHub Pages.
