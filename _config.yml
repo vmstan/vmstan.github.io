@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Virtually Benevolent
 tagline:             
-description:         Michael Stanclift: Virtualization and storage know-it-nothing
+description:         Michael Stanclift
 url:                 http://vmstan.github.io
 baseurl:             /
 paginate:            10
