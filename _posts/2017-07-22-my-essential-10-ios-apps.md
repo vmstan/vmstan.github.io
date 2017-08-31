@@ -3,13 +3,7 @@ title: My essential 10 iOS apps
 layout: post
 ---
 
-## What gets installed first on every new or restored device
-
-![](https://cdn-images-1.medium.com/max/800/1*0dxXbSotG_kgGMczML5a2A.jpeg)
-<span class="figcaption_hack">Photo by
-[Thom](http://unsplash.com/photos/Zdcq3iKly6g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-on
-[Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</span>
+![Photo of iPhone 5 by Thom on Unplash](https://cdn-images-1.medium.com/max/800/1*0dxXbSotG_kgGMczML5a2A.jpeg)
 
 Two weeks ago, after regretfully trying to use the iOS 11 developer betas on my
 primary devices, I was forced by general instability to roll back to iOS 10.
@@ -37,7 +31,7 @@ For the most part, these are the apps that if I couldn’t put anything else on 
 phone, I’d be able to make due. These are the apps that I interact with daily or
 that provide an essential service or workflow.
 
-#### **1Password**
+## 1Password
 
 [agilebits.com](https://agilebits.com/) |
 [@1Password](https://twitter.com/1password)****Hands down, 1Password is the best
@@ -48,7 +42,7 @@ already a user, become one.
 There’s been a bit of controversy recently about their move to a subscription
 model, but in my mind, it’s overblown. This software is worth every penny.
 
-#### **Better**
+## Better
 
 [better.fyi](https://better.fyi/) |
 [@betterbyindie](https://twitter.com/betterbyindie)****I’ve been using Better as
@@ -57,7 +51,7 @@ not as aggressive as other blockers, so you’ll still see ads, but it’s focus
 more on blocking the unethical user tracking. It also tends to not slow down
 site rendering, or be detected by anti-ad-blocking scripts.
 
-#### **Tweetbot**
+#### Tweetbot
 
 [tapbots.com](https://tapbots.com/tweetbot/) |
 [@tweetbot](https://twitter.com/tweetbot)****At this point, I’ve been a Tweetbot
@@ -68,7 +62,7 @@ There are a few features you lose by going with a third party app, like group
 DM, but its advanced keyword muting, gestures, plus the clean and “traditional”
 timeline/tweet view, keep me hooked.
 
-#### **Overcast**
+## Overcast
 
 [overcast.fm](https://overcast.fm/) |
 [@OvercastFM](https://twitter.com/OvercastFM)****This has been my podcast player
@@ -79,7 +73,7 @@ most well produced podcasts, and saves you time listening to dead air.
 
 86 hours, in my case.
 
-#### **Carrot Weather**
+## Carrot Weather
 
 [meetcarrot.com](http://www.meetcarrot.com/weather/) |
 [@CARROT_app](https://twitter.com/CARROT_app)****Who doesn’t love a little
@@ -98,7 +92,7 @@ Also, they threatened me.
 
 <span class="figcaption_hack">It rained later that day.</span>
 
-#### **Pcalc**
+## Pcalc
 
 [pcalc.com](http://pcalc.com/) | [@pcalc](https://twitter.com/pcalc)****It’s a
 calculator. I mean, not really a lot to say here. I suck at math, so I use it a
@@ -107,7 +101,7 @@ use it. It also has a built in unit conversion system. Also, since there isn’t
 calculator on the iPad, it gets installed there and I like to have things
 consistent between it and the phone.
 
-#### **Workflow**
+## Workflow
 
 [workflow.is](http://workflow.is/) |
 [@WorkflowHQ](https://twitter.com/WorkflowHQ)****I started using Workflow a few
@@ -117,7 +111,7 @@ sending items to Tweetbot, getting public links to iCloud documents, cleaning up
 screenshots in my Photo Library… just to name a few. The app was recently
 acquired by Apple, and is now free.
 
-#### **Things**
+## Things
 
 [culturedcode.com](https://culturedcode.com/things/) |
 [@culturedcode](https://twitter.com/culturedcode)****There are many to-do list
@@ -125,7 +119,7 @@ applications I’m not totally married to this one, and occasionally I will just
 go back to the stock Reminders app (or use my #9 pick’s integration with them)
 but right now it’s Things.
 
-#### **Fantastical**
+## Fantastical
 
 [flexibits.com](https://flexibits.com/) |
 [@flexibits](https://twitter.com/flexibits) ****Fantastical takes the stock
@@ -138,7 +132,7 @@ email/calendaring app, so Fantastical is really just for my personal and
 shared/family calendar, but I’m hoping corporate policies change to allow native
 Exchange integration at some point.
 
-#### **Nomorobo**
+## Nomorobo
 
 [nomorobo.com](https://www.nomorobo.com/) |
 [@nomorobo](https://twitter.com/nomorobo) ****My phone number is on a list
@@ -147,7 +141,7 @@ dozen a day. Well, at least I used to, until I subscribed to Nomorobo. It
 integrates with iOS to act as a blacklist for known robocallers and spammers.
 It’s not perfect, and some still slip through, but it’s better than nothing.
 
-#### Cloak
+## Cloak
 
 [getcloak.com](https://www.getcloak.com/) |
 [@getcloak](https://twitter.com/getcloak/)<br> If you were counting, this would
