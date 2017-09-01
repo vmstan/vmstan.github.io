@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Access Denied: Giving users local administrator permissions on their machine?
+title: Giving users local administrator permissions on their machine?
 date: 2009-12-08 00:00
 ---
 

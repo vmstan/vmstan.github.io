@@ -3,16 +3,18 @@ layout: default
 ---
 
 {% for post in site.posts %}
-<p>
+
       {% if post.external_url %}
-      <h3>→ {{ post.host }}</h3>
+
+      <h3><a href="{{ post.external_url }}">{{ post.title }}</a> via {{ post.host }} &#8594;</h3>
+      <p>{{ post.lead }}</p>
+
       {% else %}
+
       <h3><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %-d, %Y'}}</time></h3>
-      {{ post.lead }}
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {{ post.lead }}
+
       {% endif %}
-    <h2><a href="{% if post.external_url %}{{ post.external_url }}{% else %}{{ post.url }}{% endif %}">
-      {{ post.title }}
-    </a></h2>
-    {{ post.lead }}
  </p>
 {% endfor %}
