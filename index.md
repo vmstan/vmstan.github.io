@@ -22,5 +22,5 @@ layout: default
 
 {% endif %}
 
-{% endfor %}
 <hr />
+{% endfor %}
