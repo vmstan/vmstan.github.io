@@ -13,8 +13,8 @@ layout: default
 
       <h3><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %-d, %Y'}}</time></h3>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.lead }}
+        <p>{{ post.lead }}</p>
 
       {% endif %}
- </p>
+ 
 {% endfor %}
