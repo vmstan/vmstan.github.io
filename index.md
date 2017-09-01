@@ -23,4 +23,4 @@ layout: default
 {% endif %}
 
 {% endfor %}
-* * *
+<hr />
