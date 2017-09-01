@@ -4,9 +4,6 @@ title: Will work for reasonable salary + benefits
 date: 2017-06-10 15:28
 ---
 
-
-#### Thoughts on the most recent job hunt
-
 ![Not even close to what I’ll be working on in my new role. Photo by Clark Young on Unsplash.](https://vmstanblog.files.wordpress.com/2017/06/08cd9-1_nnm6arujvw0ibppxtkx9q.jpeg)
 
 The process of looking for a new job is stressful. If you already have one, you’re a bit like a secret agent, sneaking around town trying to complete the mission of getting someone new to agree to sign your paychecks, without the old boss finding out. If you don’t have a job, it’s even more stressful, as you wait around and watch your bank accounts dwindle, with nothing to replenish it.
