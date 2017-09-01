@@ -10,11 +10,7 @@ categories: [Job Hunting, Meta, Uncategorized]
 
 #### Thoughts on the most recent job hunt
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/06/08cd9-1_nnm6arujvw0ibppxtkx9q.jpeg)
-
-<figcaption class="wp-caption-text">Not even close to what I’ll be working on in my new role. Photo by Clark Young on Unsplash.</figcaption>
-
-</figure>
+![Not even close to what I’ll be working on in my new role. Photo by Clark Young on Unsplash.](https://vmstanblog.files.wordpress.com/2017/06/08cd9-1_nnm6arujvw0ibppxtkx9q.jpeg)
 
 The process of looking for a new job is stressful. If you already have one, you’re a bit like a secret agent, sneaking around town trying to complete the mission of getting someone new to agree to sign your paychecks, without the old boss finding out. If you don’t have a job, it’s even more stressful, as you wait around and watch your bank accounts dwindle, with nothing to replenish it.
 
@@ -68,11 +64,7 @@ Another vendor, I applied for a sales position with back in March. I had multipl
 
 Finally after two months, during the last week of interviews with my new employer, the recruiter reached out to let me know I was actually one of two people being considered. Then despite the excitement in that call, I didn’t hear anything else from them again until after I had another offer. I was then told I was no longer under consideration despite never having spoken to anyone else.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/06/06d38-1tkoqpifdhlyxj9huit9weg.jpeg)
-
-<figcaption class="wp-caption-text">This probably seems like a more accurate representation of the new role. Photo by Olu Eletu on Unsplash.</figcaption>
-
-</figure>
+![This probably seems like a more accurate representation of the new role. Photo by Olu Eletu on Unsplash](https://vmstanblog.files.wordpress.com/2017/06/06d38-1tkoqpifdhlyxj9huit9weg.jpeg)
 
 For a brief period of time, I considered the possibility of relocating. One VAR that I applied to, I had an internal referral for and the day after filling out the application got an email from the recruiting manager to let me know they were interested. He asked when I was available for a call, so I replied with possible times over the next few days. I then didn’t hear anything back for a week. I politely replied again with some refreshed dates and got an apology for missing the previous email. I was told I’d be called that next afternoon, but my phone never rang. I reached out to my internal contact to see what was going on, and then the next week got another email with a time scheduled for a call, and we had a nice chat.
 
