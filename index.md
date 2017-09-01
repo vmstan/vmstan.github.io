@@ -15,7 +15,7 @@ layout: default
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
 {% if post.lead %}
-<p>{{ post.excerpt }}</p>
+<p>{{ post.lead }}</p>
 {% else %}
 <p>{{ post.excerpt }}</p>
 {% endif %}
