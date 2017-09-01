@@ -2,9 +2,6 @@
 layout: post
 title: Just enough Windows
 date: 2017-02-12 00:57
-author: marshalus
-comments: true
-categories: [Microsoft, Uncategorized, Vmware, Windows 10]
 ---
 
 

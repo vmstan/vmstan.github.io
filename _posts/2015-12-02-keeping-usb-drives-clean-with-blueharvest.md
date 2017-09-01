@@ -2,9 +2,6 @@
 layout: post
 title: Keeping USB drives clean with BlueHarvest
 date: 2015-12-02 23:30
-author: marshalus
-comments: true
-categories: [Mac, Uncategorized, USB]
 ---
 
 

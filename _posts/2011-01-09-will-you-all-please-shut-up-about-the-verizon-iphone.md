@@ -2,9 +2,6 @@
 layout: post
 title: Will you all please shut up about the Verizon iPhone?
 date: 2011-01-09 00:00
-author: marshalus
-comments: true
-categories: [iPhone, Uncategorized, Verizon]
 ---
 
 

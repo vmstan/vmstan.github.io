@@ -2,9 +2,6 @@
 layout: post
 title: Life after iOS
 date: 2010-07-02 00:00
-author: marshalus
-comments: true
-categories: [Android, Apple, iPhone, Uncategorized]
 ---
 
 

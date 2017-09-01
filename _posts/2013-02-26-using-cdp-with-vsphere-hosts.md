@@ -2,9 +2,6 @@
 layout: post
 title: Using CDP with vSphere hosts
 date: 2013-02-26 18:00
-author: marshalus
-comments: true
-categories: [DevOps, Networking, Uncategorized, Vmware]
 ---
 
 

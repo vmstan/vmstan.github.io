@@ -2,9 +2,6 @@
 layout: post
 title: Apple Watch
 date: 2015-03-09 19:37
-author: marshalus
-comments: true
-categories: [Apple, Apple Watch, Uncategorized]
 ---
 
 

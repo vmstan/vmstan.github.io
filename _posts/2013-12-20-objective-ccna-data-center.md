@@ -2,9 +2,6 @@
 layout: post
 title: Objective: CCNA Data Center
 date: 2013-12-20 19:31
-author: marshalus
-comments: true
-categories: [Certification, Cisco, Uncategorized]
 ---
 
 

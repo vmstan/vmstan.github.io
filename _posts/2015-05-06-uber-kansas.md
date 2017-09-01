@@ -2,9 +2,6 @@
 layout: post
 title: Uber & Kansas
 date: 2015-05-06 02:13
-author: marshalus
-comments: true
-categories: [Disruption, Kansas, Uber, Uncategorized]
 ---
 
 

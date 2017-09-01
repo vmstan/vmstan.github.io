@@ -2,9 +2,6 @@
 layout: post
 title: VCDX defense process drops troubleshooting questions
 date: 2015-11-04 09:42
-author: marshalus
-comments: true
-categories: [Certification, Uncategorized, Vcdx, Vmware]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: New recruit(er)
 date: 2013-12-19 03:22
-author: marshalus
-comments: true
-categories: [Recruiting, Tech, Uncategorized]
 ---
 
 

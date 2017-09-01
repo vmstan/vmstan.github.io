@@ -2,9 +2,6 @@
 layout: post
 title: vCOPS for View download is borked
 date: 2013-01-18 18:00
-author: marshalus
-comments: true
-categories: [Uncategorized, Vmware]
 ---
 
 

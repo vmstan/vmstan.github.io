@@ -2,9 +2,6 @@
 layout: post
 title: Nutanix files for IPO
 date: 2015-12-23 11:01
-author: marshalus
-comments: true
-categories: [Cloud Computing, Nutanix, Storage Solutions, Uncategorized]
 ---
 
 #### In case you thought that there wouldn’t be any further changes in the enterprise storage industry before the start of 2016

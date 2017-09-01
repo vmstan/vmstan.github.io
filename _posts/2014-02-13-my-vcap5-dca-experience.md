@@ -2,9 +2,6 @@
 layout: post
 title: My VCAP5-DCA experience
 date: 2014-02-13 16:21
-author: marshalus
-comments: true
-categories: [Certification, Testing, Uncategorized, Vmware]
 ---
 
 

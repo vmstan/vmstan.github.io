@@ -2,9 +2,6 @@
 layout: post
 title: Huawei is calling it quits in the United States
 date: 2013-04-23 16:00
-author: marshalus
-comments: true
-categories: [Business, Networking, Storage, Uncategorized]
 ---
 
 

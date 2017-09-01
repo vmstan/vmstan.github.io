@@ -2,9 +2,6 @@
 layout: post
 title: Determining the layout of vSphere host memory
 date: 2013-02-11 18:00
-author: marshalus
-comments: true
-categories: [Tutorial, Uncategorized, Vmware]
 ---
 
 

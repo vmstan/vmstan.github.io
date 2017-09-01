@@ -2,9 +2,6 @@
 layout: post
 title: VCAP-DTA Exam Experience
 date: 2014-07-01 20:10
-author: marshalus
-comments: true
-categories: [Certification, Testing, Uncategorized, Vmware]
 ---
 
 

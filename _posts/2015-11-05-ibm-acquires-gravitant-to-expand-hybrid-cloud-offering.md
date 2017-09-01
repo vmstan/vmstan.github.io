@@ -2,9 +2,6 @@
 layout: post
 title: IBM acquires Gravitant to expand hybrid cloud offering
 date: 2015-11-05 09:08
-author: marshalus
-comments: true
-categories: [Cloud Computing, IBM, Technology, Uncategorized]
 ---
 
 

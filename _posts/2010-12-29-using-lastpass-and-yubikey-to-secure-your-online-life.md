@@ -2,9 +2,6 @@
 layout: post
 title: Using LastPass and YubiKey to secure your online life
 date: 2010-12-29 00:00
-author: marshalus
-comments: true
-categories: [Passwords, Security, Uncategorized]
 ---
 
 

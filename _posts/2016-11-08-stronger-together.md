@@ -2,9 +2,6 @@
 layout: post
 title: Stronger Together
 date: 2016-11-08 18:52
-author: marshalus
-comments: true
-categories: [2016 Election, Personal, Politics, Uncategorized]
 ---
 
 #### I wasn’t going to get sucked into the 2016 election, then Donald Trump ran for President

@@ -2,9 +2,6 @@
 layout: post
 title: Clone VM from snapshot
 date: 2015-01-08 17:01
-author: marshalus
-comments: true
-categories: [Powercli, Powershell, Uncategorized, Vmware]
 ---
 
 

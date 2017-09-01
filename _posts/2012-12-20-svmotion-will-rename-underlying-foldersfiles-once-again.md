@@ -2,9 +2,6 @@
 layout: post
 title: svMotion will rename underlying folders/files, once again
 date: 2012-12-20 18:00
-author: marshalus
-comments: true
-categories: [Uncategorized, Vmware]
 ---
 
 

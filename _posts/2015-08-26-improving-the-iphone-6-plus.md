@@ -2,9 +2,6 @@
 layout: post
 title: Improving the iPhone 6 Plus
 date: 2015-08-26 16:17
-author: marshalus
-comments: true
-categories: [Apple, iPhone, Uncategorized]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Use FQDNs when doing SMB on Isilon
 date: 2014-02-27 03:23
-author: marshalus
-comments: true
-categories: [Emc, Nas, Storage, Uncategorized]
 ---
 
 

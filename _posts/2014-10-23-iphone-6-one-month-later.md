@@ -2,9 +2,6 @@
 layout: post
 title: iPhone 6, one month later
 date: 2014-10-23 03:43
-author: marshalus
-comments: true
-categories: [Apple, iOS, iPhone, Uncategorized]
 ---
 
 

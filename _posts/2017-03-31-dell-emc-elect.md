@@ -2,9 +2,6 @@
 layout: post
 title: Dell EMC Elect
 date: 2017-03-31 03:59
-author: marshalus
-comments: true
-categories: [Emc, Personal, Storage, Uncategorized]
 ---
 
 

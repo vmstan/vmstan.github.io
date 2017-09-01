@@ -2,9 +2,6 @@
 layout: post
 title: Looking back at Neowin
 date: 2017-02-13 17:58
-author: marshalus
-comments: true
-categories: [Journalism, Personal, Technology, Uncategorized]
 ---
 
 

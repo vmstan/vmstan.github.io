@@ -2,9 +2,6 @@
 layout: post
 title: Bullish on the Watch
 date: 2015-03-15 16:09
-author: marshalus
-comments: true
-categories: [Apple, Apple Watch, Uncategorized]
 ---
 
 

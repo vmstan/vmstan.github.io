@@ -2,9 +2,6 @@
 layout: post
 title: Blog Engineering
 date: 2015-02-23 22:33
-author: marshalus
-comments: true
-categories: [Github, Jekyll, Uncategorized]
 ---
 
 

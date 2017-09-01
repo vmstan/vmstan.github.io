@@ -2,9 +2,6 @@
 layout: post
 title: Security from obscurity
 date: 2016-12-05 21:17
-author: marshalus
-comments: true
-categories: [Uncategorized]
 ---
 
 

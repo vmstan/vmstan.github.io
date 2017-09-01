@@ -2,9 +2,6 @@
 layout: post
 title: So, tell me about that rash
 date: 2015-09-22 15:20
-author: marshalus
-comments: true
-categories: [Apple, Apple Watch, Uncategorized]
 ---
 
 

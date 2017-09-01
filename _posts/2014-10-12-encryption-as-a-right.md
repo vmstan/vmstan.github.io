@@ -2,9 +2,6 @@
 layout: post
 title: Encryption as a right?
 date: 2014-10-12 21:24
-author: marshalus
-comments: true
-categories: [Apple, Police Brutality, Security, Uncategorized]
 ---
 
 

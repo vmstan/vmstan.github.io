@@ -2,9 +2,6 @@
 layout: post
 title: Peace Out Facebook, Mostly
 date: 2014-06-30 00:55
-author: marshalus
-comments: true
-categories: [Facebook, Social Media, Uncategorized]
 ---
 
 

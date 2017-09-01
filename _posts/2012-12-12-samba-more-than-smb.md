@@ -2,9 +2,6 @@
 layout: post
 title: Samba, more than SMB
 date: 2012-12-12 18:00
-author: marshalus
-comments: true
-categories: [Microsoft, Samba, Smb, Uncategorized]
 ---
 
 

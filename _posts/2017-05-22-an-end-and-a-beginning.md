@@ -2,9 +2,6 @@
 layout: post
 title: An end and a beginning
 date: 2017-05-22 16:19
-author: marshalus
-comments: true
-categories: [New Job, Personal, Uncategorized]
 ---
 
 #### It’s time for a change

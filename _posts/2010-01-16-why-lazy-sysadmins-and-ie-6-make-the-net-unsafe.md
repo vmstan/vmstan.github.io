@@ -2,9 +2,6 @@
 layout: post
 title: Why lazy sysadmins and IE 6 make the net unsafe
 date: 2010-01-16 00:00
-author: marshalus
-comments: true
-categories: [Uncategorized]
 ---
 
 

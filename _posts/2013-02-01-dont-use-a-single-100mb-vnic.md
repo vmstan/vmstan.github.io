@@ -2,9 +2,6 @@
 layout: post
 title: Don’t use a single 100mb vNIC
 date: 2013-02-01 18:00
-author: marshalus
-comments: true
-categories: [Networking, Uncategorized, Vmware]
 ---
 
 

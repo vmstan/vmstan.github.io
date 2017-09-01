@@ -2,9 +2,6 @@
 layout: post
 title: Flash zero-day, again
 date: 2015-07-08 02:53
-author: marshalus
-comments: true
-categories: [Flash, Security, Uncategorized, Web Development]
 ---
 
 

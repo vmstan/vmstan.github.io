@@ -2,9 +2,6 @@
 layout: post
 title: The mythical Verizon iPhone has arrived
 date: 2011-01-11 00:00
-author: marshalus
-comments: true
-categories: [iPhone, Uncategorized, Verizon]
 ---
 
 

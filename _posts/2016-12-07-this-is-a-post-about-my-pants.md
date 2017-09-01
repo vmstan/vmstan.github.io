@@ -2,9 +2,6 @@
 layout: post
 title: This is a post about my pants
 date: 2016-12-07 19:40
-author: marshalus
-comments: true
-categories: [Fashion, Personal, Travel, Uncategorized]
 ---
 
 

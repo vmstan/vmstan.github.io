@@ -2,9 +2,6 @@
 layout: post
 title: Facebook Vacation
 date: 2013-06-13 16:00
-author: marshalus
-comments: true
-categories: [Facebook, Social Media, Uncategorized, Vacation]
 ---
 
 

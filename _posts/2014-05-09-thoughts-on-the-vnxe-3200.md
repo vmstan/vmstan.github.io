@@ -2,9 +2,6 @@
 layout: post
 title: Thoughts on the VNXe 3200
 date: 2014-05-09 16:09
-author: marshalus
-comments: true
-categories: [Emc, Storage, Storage Solutions, Uncategorized]
 ---
 
 

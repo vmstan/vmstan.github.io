@@ -2,9 +2,6 @@
 layout: post
 title: Great worst successful error
 date: 2014-03-13 01:09
-author: marshalus
-comments: true
-categories: [Microsoft, Uncategorized]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Coaching without fear
 date: 2013-06-30 02:00
-author: marshalus
-comments: true
-categories: [Family, Parenting, Pregnancy, Uncategorized]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Kansas City VMUG Conference
 date: 2012-12-13 18:00
-author: marshalus
-comments: true
-categories: [Social Media, Uncategorized, Vmware]
 ---
 
 I used to go to a lot more of the Kansas City VMUG meetings back before I became a consultant (and had more control over my own schedule) but when I saw there would be a full day event (and that the headline speaker would be Steve Woznaik) I made sure to block the day off on my calendar.

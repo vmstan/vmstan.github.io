@@ -2,9 +2,6 @@
 layout: post
 title: The new(er) Apple TV
 date: 2015-12-01 19:00
-author: marshalus
-comments: true
-categories: [Apple, Apple TV, Uncategorized]
 ---
 
 

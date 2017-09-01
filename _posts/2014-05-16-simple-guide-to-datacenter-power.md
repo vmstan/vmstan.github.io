@@ -2,9 +2,6 @@
 layout: post
 title: Simple guide to datacenter power
 date: 2014-05-16 04:08
-author: marshalus
-comments: true
-categories: [Datacenter, Power, Uncategorized]
 ---
 
 Justin Paul [at his blog](http://www.jpaul.me/?p=7672):

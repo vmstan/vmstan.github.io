@@ -2,9 +2,6 @@
 layout: post
 title: Fun with AT&T U-verse
 date: 2011-04-27 00:00
-author: marshalus
-comments: true
-categories: [Internet, Isp, Uncategorized]
 ---
 
 

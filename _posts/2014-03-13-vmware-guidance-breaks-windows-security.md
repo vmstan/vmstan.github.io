@@ -2,9 +2,6 @@
 layout: post
 title: VMware guidance breaks Windows security
 date: 2014-03-13 04:00
-author: marshalus
-comments: true
-categories: [Microsoft, Security, Uncategorized, Vmware]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Snow Leopard lacks security features present in Windows Vista/7
 date: 2009-09-17 00:00
-author: marshalus
-comments: true
-categories: [Uncategorized]
 ---
 
 

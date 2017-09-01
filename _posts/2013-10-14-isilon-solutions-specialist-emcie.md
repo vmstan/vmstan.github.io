@@ -2,9 +2,6 @@
 layout: post
 title: Isilon Solutions Specialist, EMCIE
 date: 2013-10-14 16:00
-author: marshalus
-comments: true
-categories: [Certification, Emc, Storage, Uncategorized]
 ---
 
 

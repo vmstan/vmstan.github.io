@@ -2,9 +2,6 @@
 layout: post
 title: Faking an SSD drive in vSphere
 date: 2013-01-17 18:00
-author: marshalus
-comments: true
-categories: [Ssd, Uncategorized, Vmware]
 ---
 
 

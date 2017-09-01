@@ -2,9 +2,6 @@
 layout: post
 title: Google stripping support for H.264 video out of Chrome
 date: 2011-01-11 00:00
-author: marshalus
-comments: true
-categories: [Chrome, Google, Uncategorized, Video]
 ---
 
 

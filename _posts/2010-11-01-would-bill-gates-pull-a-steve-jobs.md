@@ -2,9 +2,6 @@
 layout: post
 title: Would Bill Gates pull a Steve Jobs?
 date: 2010-11-01 00:00
-author: marshalus
-comments: true
-categories: [Bill Gates, Steve Jobs, Uncategorized]
 ---
 
 

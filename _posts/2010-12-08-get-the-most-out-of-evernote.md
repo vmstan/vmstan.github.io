@@ -2,9 +2,6 @@
 layout: post
 title: Get the most out of Evernote
 date: 2010-12-08 00:00
-author: marshalus
-comments: true
-categories: [Evernote, Tutorial, Uncategorized]
 ---
 
 

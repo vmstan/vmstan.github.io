@@ -2,9 +2,6 @@
 layout: post
 title: NSA & ‘Big Data’
 date: 2013-06-07 16:00
-author: marshalus
-comments: true
-categories: [Big Data, Cloud Storage, Nsa Surveillance, Uncategorized]
 ---
 
 

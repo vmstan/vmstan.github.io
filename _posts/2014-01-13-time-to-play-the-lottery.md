@@ -2,9 +2,6 @@
 layout: post
 title: Time to play the lottery
 date: 2014-01-13 18:01
-author: marshalus
-comments: true
-categories: [Lottery, Microsoft, Uncategorized, Vmware]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Giving fewer fucks
 date: 2015-02-01 16:28
-author: marshalus
-comments: true
-categories: [America, Fuck, Life Lessons, Uncategorized]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Hewlett Packard Enterprise goes public, splitting HP into two companies
 date: 2015-11-03 16:05
-author: marshalus
-comments: true
-categories: [HP, Hpe, Management, Uncategorized]
 ---
 
 

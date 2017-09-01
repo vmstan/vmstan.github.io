@@ -2,9 +2,6 @@
 layout: post
 title: Audience quality vs audience quantity
 date: 2013-04-23 16:00
-author: marshalus
-comments: true
-categories: [Community Engagement, Social Media, Uncategorized]
 ---
 
 

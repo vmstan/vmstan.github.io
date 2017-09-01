@@ -2,9 +2,6 @@
 layout: post
 title: Juniper finds backdoor exposing encrypted VPN traffic
 date: 2015-12-18 10:52
-author: marshalus
-comments: true
-categories: [Networking, Nsa, Security, Uncategorized]
 ---
 
 

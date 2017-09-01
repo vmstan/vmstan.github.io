@@ -2,9 +2,6 @@
 layout: post
 title: View guide, ASLR, no more
 date: 2014-07-21 18:32
-author: marshalus
-comments: true
-categories: [Aslr, Security, Uncategorized, Vmware]
 ---
 
 

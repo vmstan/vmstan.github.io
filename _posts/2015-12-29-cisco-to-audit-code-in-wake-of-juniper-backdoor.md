@@ -2,9 +2,6 @@
 layout: post
 title: Cisco to audit code in wake of Juniper backdoor
 date: 2015-12-29 08:55
-author: marshalus
-comments: true
-categories: [Cisco, Cybersecurity, Security, Uncategorized]
 ---
 
 

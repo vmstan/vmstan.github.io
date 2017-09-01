@@ -2,9 +2,6 @@
 layout: post
 title: July 2014, on Twitter
 date: 2014-07-03 17:37
-author: marshalus
-comments: true
-categories: [Social Media, Twitter, Uncategorized]
 ---
 
 I’ve been trying to determine the best way to link the blog and my Twitter account together. Obviously I tweet links to much of what I post here, but I tweet far more often than I blog. There are usually lots of good nuggets that I find, either links to other blogs, KB articles, or even just retweeting insights.

@@ -2,9 +2,6 @@
 layout: post
 title: It’s about the business model
 date: 2015-05-30 03:20
-author: marshalus
-comments: true
-categories: [Business, Tech, Uncategorized]
 ---
 
 

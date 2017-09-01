@@ -2,9 +2,6 @@
 layout: post
 title: Crashing ESXi with Cisco RAID controllers
 date: 2016-11-30 16:34
-author: marshalus
-comments: true
-categories: [Cisco, Storage, Uncategorized, Vmware]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: VMware has updated its certification names/logos, again
 date: 2013-04-16 16:00
-author: marshalus
-comments: true
-categories: [Certification, Uncategorized, Vmware]
 ---
 
 

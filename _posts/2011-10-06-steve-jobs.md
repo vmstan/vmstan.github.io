@@ -2,9 +2,6 @@
 layout: post
 title: Steve Jobs
 date: 2011-10-06 00:00
-author: marshalus
-comments: true
-categories: [Apple, Steve Jobs, Technology, Uncategorized]
 ---
 
 

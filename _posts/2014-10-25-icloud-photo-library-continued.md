@@ -2,9 +2,6 @@
 layout: post
 title: iCloud Photo Library, continued
 date: 2014-10-25 03:01
-author: marshalus
-comments: true
-categories: [Apple, Icloud, Photography, Uncategorized]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Apple Leather Case for iPhone 7
 date: 2016-12-08 19:57
-author: marshalus
-comments: true
-categories: [Apple, iPhone, Leather, Uncategorized]
 ---
 
 

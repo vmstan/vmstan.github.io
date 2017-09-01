@@ -2,9 +2,6 @@
 layout: post
 title: Commitment Issues
 date: 2010-07-29 00:00
-author: marshalus
-comments: true
-categories: [Android, Apple, iPhone, Uncategorized]
 ---
 
 

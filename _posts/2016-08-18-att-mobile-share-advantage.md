@@ -2,9 +2,6 @@
 layout: post
 title: AT&T Mobile Share “Advantage”
 date: 2016-08-18 19:44
-author: marshalus
-comments: true
-categories: [ATT, Cell Phones, Uncategorized]
 ---
 
 

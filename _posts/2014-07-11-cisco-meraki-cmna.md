@@ -2,9 +2,6 @@
 layout: post
 title: Cisco Meraki, CMNA
 date: 2014-07-11 18:31
-author: marshalus
-comments: true
-categories: [Certification, Cisco, Uncategorized]
 ---
 
 

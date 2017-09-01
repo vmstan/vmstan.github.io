@@ -2,9 +2,6 @@
 layout: post
 title: Cisco Jabber & Persona Management
 date: 2014-07-02 15:32
-author: marshalus
-comments: true
-categories: [Cisco, Troubleshooting, Uncategorized, Vmware]
 ---
 
 

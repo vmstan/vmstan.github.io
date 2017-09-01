@@ -2,9 +2,6 @@
 layout: post
 title: Jumping the Cloud Shark
 date: 2014-07-15 17:26
-author: marshalus
-comments: true
-categories: [Life Lessons, Programming, Uncategorized]
 ---
 
 In [a Bloomberg article](http://www.bloomberg.com/news/2014-07-15/microsoft-said-to-announce-job-cuts-as-soon-as-this-week.html) on Microsoft potentally cutting jobs sometime this week:

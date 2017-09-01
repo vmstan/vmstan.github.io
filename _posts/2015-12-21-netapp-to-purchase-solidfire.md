@@ -2,9 +2,6 @@
 layout: post
 title: NetApp to purchase SolidFire
 date: 2015-12-21 23:54
-author: marshalus
-comments: true
-categories: [Netapp, Storage, Uncategorized]
 ---
 
 NetApp, Inc. on Monday announced its intent to acquire the Boulder, Colorado based all-flash array (AFA) vendor SolidFire, for $870 million in cash.

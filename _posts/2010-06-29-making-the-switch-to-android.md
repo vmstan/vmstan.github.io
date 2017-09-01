@@ -2,9 +2,6 @@
 layout: post
 title: Making the switch to Android
 date: 2010-06-29 00:00
-author: marshalus
-comments: true
-categories: [Uncategorized]
 ---
 
 

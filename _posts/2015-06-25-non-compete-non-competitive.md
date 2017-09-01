@@ -2,9 +2,6 @@
 layout: post
 title: Non-compete, non-competitive
 date: 2015-06-25 00:57
-author: marshalus
-comments: true
-categories: [Non Compete, Uncategorized]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Pearson VUE’s credential management system has been compromised
 date: 2015-11-25 03:00
-author: marshalus
-comments: true
-categories: [Pearson, Security, Uncategorized]
 ---
 
 

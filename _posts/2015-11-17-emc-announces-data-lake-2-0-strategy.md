@@ -2,9 +2,6 @@
 layout: post
 title: EMC announces Data Lake 2.0 strategy
 date: 2015-11-17 09:59
-author: marshalus
-comments: true
-categories: [Cloud Computing, Emc, Storage, Technology, Uncategorized]
 ---
 
 

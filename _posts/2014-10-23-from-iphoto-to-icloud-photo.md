@@ -2,9 +2,6 @@
 layout: post
 title: From iPhoto to iCloud Photo
 date: 2014-10-23 18:47
-author: marshalus
-comments: true
-categories: [Apple, Icloud, Photography, Uncategorized]
 ---
 
 

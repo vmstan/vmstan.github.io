@@ -2,9 +2,6 @@
 layout: post
 title: RPA ‘Factory Reset’
 date: 2015-04-14 16:47
-author: marshalus
-comments: true
-categories: [Emc, Storage, Tutorial, Uncategorized]
 ---
 
 

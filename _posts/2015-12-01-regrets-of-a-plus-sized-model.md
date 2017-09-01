@@ -2,9 +2,6 @@
 layout: post
 title: Regrets of a Plus sized model
 date: 2015-12-01 16:36
-author: marshalus
-comments: true
-categories: [Apple, iPhone 6s, Uncategorized]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Set all datastores to round robin using PowerCLI
 date: 2013-06-26 16:00
-author: marshalus
-comments: true
-categories: [Cloud Computing, Service Fabric, Uncategorized]
 ---
 
 

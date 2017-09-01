@@ -2,9 +2,6 @@
 layout: post
 title: Longer title and more acronyms
 date: 2013-07-05 16:00
-author: marshalus
-comments: true
-categories: [Certification, Jobs, Uncategorized]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Being a VMware NIC isn’t easy these days
 date: 2014-03-02 21:28
-author: marshalus
-comments: true
-categories: [Networking, Uncategorized, Vmware]
 ---
 
 

@@ -2,9 +2,6 @@
 layout: post
 title: Migrate to VCSA
 date: 2016-12-02 20:21
-author: marshalus
-comments: true
-categories: [Linux, Uncategorized, Vmware, Windows]
 ---
 
 
