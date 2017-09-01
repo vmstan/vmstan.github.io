@@ -1,0 +1,35 @@
+---
+layout: post
+title: View guide, ASLR, no more
+date: 2014-07-21 18:32
+author: marshalus
+comments: true
+categories: [Aslr, Security, Uncategorized, Vmware]
+---
+
+
+A few months ago I wrote about the VMware View optimization script breaking Internet Explorer and Adobe Acrobat through the addition of a registry entry that disabled Address Space Layout Randomization (ASLR):
+
+> _ASLR was a feature added to Windows starting with Vista. It’s present in Linux and Mac OS X as well. For reasons unknown, the VMware scripts disable ASLR._
+
+> _Internet Explorer will not run with ASLR turned off. After further testing, neither will Adobe Reader. Two programs that are major targets for security exploits, refuse to run with ASLR turned off._
+
+> _The “problem” with ASLR in a virtual environment is that it makes transparent memory page sharing less efficient. How much less? That’s debatable and dependent on workload. It might gain a handful of extra virtual machines running on a host, and at the expense of a valuable security feature of the operating system._
+
+> _For some reason, those who created the script at VMware have decided that they consider it best practice for it to be disabled._
+
+At the VMware Partner Technical Advisory Board on EUC last month, I pointed this out to some VMware people and sent a link to the blog entry.
+
+Over the weekend I got a tip from Thomas Brown from over at Varrow:
+
+> [_@vmstan_](https://twitter.com/vmstan) _looks like they updated the windows optimization guide for view. I assume they incorporated your changes into the script?_
+
+> _— Thomas Brown (@thombrown)_ [_July 19, 2014_](https://twitter.com/thombrown/statuses/490559188355923968)
+
+Today I had an opportunity to download the updated scripts ([available here](http://www.vmware.com/resources/techresources/10157)) and was very pleased to see:
+
+<pre>rem *** Removed due to issues with IE10, IE11 and Adobe Acrobat 03Jun2014 rem Disable Address space layout randomization rem reg ADD "HKLMSystemCurrentControlSetControlSession ManagerMemory Management" /v MoveImages /t REG_DWORD /d 0x0 /f</pre>
+
+Success!
+
+As always, please review the rest of the contents to make sure the changes that the script makes are approprate for your environment.
