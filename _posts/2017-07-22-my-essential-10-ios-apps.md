@@ -1,5 +1,6 @@
 ---
 title: My essential 10 iOS apps
+lead: What gets installed first on every new or restored device
 layout: post
 ---
 

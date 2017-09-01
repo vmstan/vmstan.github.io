@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Will work for reasonable salary + benefits
+lead: Thoughts on the most recent job hunt
 date: 2017-06-10 15:28
 ---
 
