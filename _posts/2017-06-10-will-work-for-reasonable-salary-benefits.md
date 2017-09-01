@@ -2,9 +2,6 @@
 layout: post
 title: Will work for reasonable salary + benefits
 date: 2017-06-10 15:28
-author: marshalus
-comments: true
-categories: [Job Hunting, Meta, Uncategorized]
 ---
 
 
