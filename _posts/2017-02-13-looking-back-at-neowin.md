@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Looking back at Neowin
+lead: It was the site that consumed my early 20s, but now I can barely remember why
 date: 2017-02-13 17:58
 ---
-
-
-#### It was the site that consumed my early 20s, but now I can barely remember why
 
 Most of the people who know and interact with me professionally, or on social media know me as “vmstan” — and if you asked most of those people they’d tell you I only pay attention to two things when it comes to technology: VMware and Apple.
 

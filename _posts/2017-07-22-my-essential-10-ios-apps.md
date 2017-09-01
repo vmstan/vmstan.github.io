@@ -4,8 +4,6 @@ lead: What gets installed first on every new or restored device
 layout: post
 ---
 
-![Photo of iPhone 5 by Thom on Unplash](https://cdn-images-1.medium.com/max/800/1*0dxXbSotG_kgGMczML5a2A.jpeg)
-
 Two weeks ago, after regretfully trying to use the iOS 11 developer betas on my primary devices, I was forced by general instability to roll back to iOS 10.
 
 Unfortunately, there’s no great way to do this without doing a restore and fresh install. I had a backup from iOS 10 that I’d taken prior to jumping on the beta train, but it was old now. This process is further complicated by the way Apple Watch activity and health data is really maintained on the phone, not the watch itself.

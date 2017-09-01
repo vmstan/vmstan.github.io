@@ -4,11 +4,6 @@ title: Dell EMC Elect
 date: 2017-03-31 03:59
 ---
 
-
-#### Whoa. Surprise!
-
-<figure>![](https://vmstanblog.files.wordpress.com/2017/03/3298d-1khyyqhezl6mfs5j3uh0o4w.jpeg)</figure>
-
 I’m going to start this by saying something that might seem strange for a post like this, but is no surprise to my closest friends: The last two months, and especially the last two weeks, have been very stressful and mentally draining. Without getting into the details of it all, I will simply say that the biggest contributing factor, or at least the medium that has facilitated the stress, has been social media.
 
 I decided to temporarily set my Twitter account private for a few days last week, something I’d never done in nine years on the service. The only thing I learned from that, is that having a private Twitter account sucks. Over the last few months, I’ve unfollowed and set mute filters for topics that generated more noise than signal. I’ve tried to step back and get some perspective on what’s going on in the world right now.

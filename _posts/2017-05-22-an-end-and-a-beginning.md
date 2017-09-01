@@ -4,10 +4,6 @@ title: An end and a beginning
 date: 2017-05-22 16:19
 ---
 
-#### It’s time for a change
-
-<figure>![](https://vmstanblog.files.wordpress.com/2017/05/65e7e-15csmipaciel24haexya_zq.jpeg)</figure>
-
 This morning I gave two weeks notice to my current employer, a Kansas City based VAR, where I have been a senior data center engineer for the last six years.
 
 I’ve enjoyed many aspects of my current role; becoming certified in new technologies, learning new skills, and solving problems for customers. I’ve had the pleasure to work with a lot of talented people within the organization and within our partners… and of course, with our customers.

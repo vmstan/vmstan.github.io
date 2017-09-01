@@ -5,8 +5,6 @@ lead: Thoughts on the most recent job hunt
 date: 2017-06-10 15:28
 ---
 
-![Not even close to what I’ll be working on in my new role. Photo by Clark Young on Unsplash.](https://vmstanblog.files.wordpress.com/2017/06/08cd9-1_nnm6arujvw0ibppxtkx9q.jpeg)
-
 The process of looking for a new job is stressful. If you already have one, you’re a bit like a secret agent, sneaking around town trying to complete the mission of getting someone new to agree to sign your paychecks, without the old boss finding out. If you don’t have a job, it’s even more stressful, as you wait around and watch your bank accounts dwindle, with nothing to replenish it.
 
 I knew by March of this year that I was ready to move on from my now previous employer. I’ve never really had a difficult time finding a job when I decided to commit to the process. I don’t think this time was any different in that respect, but it was interesting. I was very lucky and excited to accept the position that I had the most interest in of all those I looked at during the entire process.
