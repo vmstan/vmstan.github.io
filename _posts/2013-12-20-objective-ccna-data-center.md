@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Objective: CCNA Data Center
+title: Objective - CCNA Data Center
 date: 2013-12-20 19:31
 ---
 

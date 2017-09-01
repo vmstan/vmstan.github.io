@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Objective Complete: CCNA, Data Center
+title: Objective Complete - CCNA, Data Center
 date: 2014-01-04 23:59
 ---
 
