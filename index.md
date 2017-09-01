@@ -11,7 +11,6 @@ layout: default
 
 {% else %}
 
-<h5><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %-d, %Y'}}</time></h5>
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
 {% if post.lead %}
@@ -19,6 +18,7 @@ layout: default
 {% else %}
 <p>{{ post.excerpt }}</p>
 {% endif %}
+<h5><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %-d, %Y'}}</time></h5>
 
 {% endif %}
 
