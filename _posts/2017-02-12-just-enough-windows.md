@@ -16,7 +16,7 @@ This is a “light” optimization for my usage. It could it yours as well, if y
 
 ![](/images/27487-1lknvkdktmelm5lknlbtlmw.png)
 
-#### What edition of Windows 10
+### What edition of Windows 10
 
 Start with a fresh download of Windows 10\. Microsoft spins updated copies fairly regularly, so if you’ve not got one based on the 1607 build, start there.
 
@@ -28,17 +28,15 @@ The last option is to grab a copy of Home or Professional. Either one. Nothing w
 
 One of the things you don’t get in the LTSB is the Microsoft Edge browser. If you have a need for that, such as browser testing on websites, then don’t use it.
 
-#### Creating the VM
+### Creating the VM
 
 So fire up VMware Fusion and create a new VM using your freshly downloaded ISO.
-
-![](/images/f7802-1cgdat9enxepf2znn44ukxa.png)
 
 *   **Uncheck Easy Install**, because life shouldn’t have an easy button.
 *   **Customize Settings**, I usually give my VM 2 vCPU/cores and 2.5GB of RAM.
 *   **Disable 3D Graphics,** if you have a discrete NVIDIA or AMD processor in your Mac laptop, this will generally prevent it from engaging with your VM running on battery power and easily give you another hour of work time.
 
-#### **Advanced VM Settings**
+#### Advanced VM Settings
 
 **Option + Right Click** on VM in the Library and select **Open Config File in Editor.**
 
@@ -50,9 +48,7 @@ firmware = "efi"
 ethernet0.virtualDev = "vmxnet3"
 ```
 
-![](/images/4bc84-106nsatp_vbiazb1id4lvma.png)
-
-#### Installing Windows
+### Installing Windows
 
 Power on and run through the GUI installer as normal. After the files get laid out to the disk and the first reboot happens, you’ll begin getting configuration choices.
 
@@ -75,13 +71,13 @@ After installing updates and rebooting it was necessary for me to run a repair p
 
 Enable sharing between your VM and Mac downloads folder, I don’t like sharing the other folders because I only rarely use them from Windows and don’t like them messing with my Mac files. I also have an SD card in my Mac with archived installers and such, so I share that as well.
 
-![](/images/986a6-1elq2k5yjwiggkc8b_2n6pg.png)
-
 Before we run our optimization tools, **Enable .Net 3.5 from Windows Features** because you’ll need them for the first tool we’re about to run.
 
-#### Optimization and Privacy
+### Optimization and Privacy
 
-Run [Tron](https://www.reddit.com/r/TronScript/comments/5t1zcc/tron_v1000_20170209_add_wsus_offline_support_add/) to automate the cleanup and removal of junk that Microsoft has in Windows that we’re not going to use.
+#### Run [Tron](https://www.reddit.com/r/TronScript/comments/5t1zcc/tron_v1000_20170209_add_wsus_offline_support_add/) 
+
+This will automate the cleanup and removal of junk that Microsoft has in Windows that we’re not going to use.
 
 ![](/images/934a7-1q95dth3fgki2c6ykahatya.png)
 
@@ -89,7 +85,9 @@ The Tron process takes a long time. The script says 4 hours, I don’t find it t
 
 Reboot
 
-Run [Blackbird](http://www.getblackbird.net/documentation/) to privatize your Windows setup. This should disable most of the Microsoft telemetry, call home and tracking stuff built into Windows 10.
+#### Run [Blackbird](http://www.getblackbird.net/documentation/) 
+
+This will privatize your Windows setup. This should disable most of the Microsoft telemetry, call home and tracking stuff built into Windows 10.
 
 It’s not that I’m really super paranoid that Microsoft is going to spy on me (mostly the NSA, through Microsoft) but disabling a lot of this should cut down on system overhead.
 
@@ -101,11 +99,13 @@ Blackbird should only take a few minutes to apply.
 
 Reboot
 
-**Uninstall built in applications** under Control Panel > System > Apps.
+#### Uninstall, Uninstall, Uninstall
+
+Uninstall built in applications under Control Panel > System > Apps.
 
 If you’re using a consumer version of Windows there will be a lot more here, like the “metro” Mail app, Calendar, etc. Get rid of them. The LTSB version has almost none of these, which is one reason I like it. I uninstall OneDrive. Malwarebytes was installed by Tron, if you want to keep it on the system, that’s fine, but I just uninstalled it.
 
-**Disable unneeded features:**
+#### Disable unneeded features
 
 *   Media Features
 *   Print to PDF
@@ -124,7 +124,7 @@ An interesting one to remove would be Internet Explorer. I typically use Firefox
 
 As for PowerShell you’ll likely want to keep this, especially in order to install and run VMware PowerCLI.
 
-**Run the** [**VMware OS Optimization Tool**](https://labs.vmware.com/flings/vmware-os-optimization-tool)
+#### Run the** [**VMware OS Optimization Tool**](https://labs.vmware.com/flings/vmware-os-optimization-tool)
 
 This tool is designed to run in VMware View desktops, and so while the overwhelming majority of the changes this tool makes are beneficial to us, there are a few things that I adjust to accommodate for the fact that this is one VM that I’ll be using, and not a template VM that will be used to roll out 1000 clones in a shared environment.
 
@@ -139,7 +139,7 @@ Check all of the app removals you don’t want, if any of them are still there a
 
 Reboot
 
-#### Wrapping Up
+### Wrapping Up
 
 At this point you should only really be left with a core Windows system. During one of the optimizations, Windows Updates may have been disabled. Open up the services.msc utility and check, if it is, enable it … unless you don’t like patches.
 
@@ -149,13 +149,9 @@ Run a disk reclamation on the VM to free up about 3GB of space.
 
 ![](/images/f01ce-1ftiuskxrtohyu7q8zwqnpw.png)
 
-![](/images/4395d-104vq_zpuc0-m8xpfkntd6w.png)
-
 I go ahead and set my VM hard drive not to go to sleep, because most of the time I have it open it’s being used for a purpose, and I will manually suspend the VM in Fusion when it’s no longer needed. Sometimes I have to use the VM to run updates on EMC VNX systems using Unisphere Service Manager that can take hours at a time. I don’t want the VM to accidently sleep during this time.
 
 A useful tool on the macOS side to prevent your overall system from going to sleep during these activities is a free tool called [Amphemetine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12). You can set it to keep the system alive as long as an application (like VMware Fusion) is running, indefinitely or on a timer.
-
-![](/images/42e7e-1mrkfzmvtgotkdq56yddzmq.png)
 
 From this point it’s a matter of installing my utility applications.
 
