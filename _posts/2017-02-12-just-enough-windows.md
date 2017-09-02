@@ -45,7 +45,10 @@ So fire up VMware Fusion and create a new VM using your freshly downloaded ISO.
 *   Enable support for EFI based booting, instead of BIOS.
 *   Replace the E1000 network card with a more efficent VMXNET3
 
-[https://gist.github.com/vmstan/4ead8d9d251c58d669eac396c30b178f](https://gist.github.com/vmstan/4ead8d9d251c58d669eac396c30b178f)
+``` ini
+firmware = "efi"
+ethernet0.virtualDev = "vmxnet3"
+```
 
 ![](/images/4bc84-106nsatp_vbiazb1id4lvma.png)
 
