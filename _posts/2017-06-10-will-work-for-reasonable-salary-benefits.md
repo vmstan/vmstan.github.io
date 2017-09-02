@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Will work for reasonable salary + benefits
-lead: Thoughts on the most recent job hunt
 date: 2017-06-10 15:28
+permalink: /will-work-for-reasonable-salary-benefits-a12ad5004ad8
 ---
 
 The process of looking for a new job is stressful. If you already have one, you’re a bit like a secret agent, sneaking around town trying to complete the mission of getting someone new to agree to sign your paychecks, without the old boss finding out. If you don’t have a job, it’s even more stressful, as you wait around and watch your bank accounts dwindle, with nothing to replenish it.

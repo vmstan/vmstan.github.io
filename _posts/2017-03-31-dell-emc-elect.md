@@ -2,6 +2,7 @@
 layout: post
 title: Dell EMC Elect
 date: 2017-03-31 03:59
+permalink: /dell-emc-elect-d92449d5f3f3
 ---
 
 I’m going to start this by saying something that might seem strange for a post like this, but is no surprise to my closest friends: The last two months, and especially the last two weeks, have been very stressful and mentally draining. Without getting into the details of it all, I will simply say that the biggest contributing factor, or at least the medium that has facilitated the stress, has been social media.

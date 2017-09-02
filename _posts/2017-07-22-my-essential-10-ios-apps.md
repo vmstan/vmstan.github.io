@@ -1,7 +1,8 @@
 ---
 title: My essential 10 iOS apps
-lead: What gets installed first on every new or restored device
+lead: What gets installed first on every new or restored iOS device.
 layout: post
+permalink: /my-top-10-ios-apps-7887c2973b67
 ---
 
 Two weeks ago, after regretfully trying to use the iOS 11 developer betas on my primary devices, I was forced by general instability to roll back to iOS 10.

@@ -2,6 +2,7 @@
 layout: post
 title: An end and a beginning
 date: 2017-05-22 16:19
+permalink: /an-end-and-a-beginning-f074896d5144
 ---
 
 This morning I gave two weeks notice to my current employer, a Kansas City based VAR, where I have been a senior data center engineer for the last six years.

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Looking back at Neowin
-lead: It was the site that consumed my early 20s, but now I can barely remember why
+lead: It was the site that consumed my early 20s, but now I can barely remember why.
 date: 2017-02-13 17:58
+permalink: /looking-back-at-neowin-1641160e8653
 ---
 
 Most of the people who know and interact with me professionally, or on social media know me as “vmstan” — and if you asked most of those people they’d tell you I only pay attention to two things when it comes to technology: VMware and Apple.
@@ -30,11 +31,7 @@ That’s not to say that there weren’t other benefits to my involvement. The N
 
 Neowin was my life for most of those years, so much so that the groomscake at my wedding in 2008 was a surprise from my wife: The Neowin Logo.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/9c9e1-1x8qwoejnyai9mgssxgnh_a.jpeg)
-
-<figcaption class="wp-caption-text">I wish I was kidding.</figcaption>
-
-</figure>
+![](/images/9c9e1-1x8qwoejnyai9mgssxgnh_a.jpeg)
 
 I left the site in mid-2009, for reasons now that I don’t exactly remember. There was a lot of infighting between staffers at the time, mostly centered around the North American/Europe divide and the lack of representation among the US and Canadian staffers, among the Administrators.
 
