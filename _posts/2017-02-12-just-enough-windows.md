@@ -2,6 +2,7 @@
 layout: post
 title: Just enough Windows
 date: 2017-02-12 00:57
+permalink: /just-enough-windows-fece0fcb6186
 ---
 
 I’ve not been a true “Windows user” on a daily basis since the glorious afternoon my first MacBook Pro arrived in 2011. That didn’t exactly mean I quit using Windows on that day, but over time I’ve continued to slim down my actual needs of the Windows desktop operating system to the point where now I keep a Windows VM around for “just enough” of the things I need from it.
