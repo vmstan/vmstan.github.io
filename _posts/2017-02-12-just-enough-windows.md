@@ -4,10 +4,7 @@ title: Just enough Windows
 date: 2017-02-12 00:57
 ---
 
-
-#### How I make my Windows 10 VM tolerable in VMware Fusion, for me
-
-I’ve not been a true “Windows user” on a daily basis since the glorious afternoon my first MacBook Pro arrived in 2011\. That didn’t exactly mean I quit using Windows on that day, but over time I’ve continued to slim down my actual needs of the Windows desktop operating system to the point where now I keep a Windows VM around for “just enough” of the things I need from it.
+I’ve not been a true “Windows user” on a daily basis since the glorious afternoon my first MacBook Pro arrived in 2011. That didn’t exactly mean I quit using Windows on that day, but over time I’ve continued to slim down my actual needs of the Windows desktop operating system to the point where now I keep a Windows VM around for “just enough” of the things I need from it.
 
 Windows 10 is a huge advancement over Windows 7, which is where I left off as a PC user and over these last six years Microsoft has learned a lot from Windows 8.x being such a mess. But Windows 10 is an OS intended for use on everything from 4" smartphones to watercooled gaming rigs with multiple 27" 4K displays.
 
@@ -17,11 +14,7 @@ These instructions are not all specific to VMware Fusion, but some are. This als
 
 This is a “light” optimization for my usage. It could it yours as well, if you have similar needs like running a small collection of utility type applications, such as a couple of EMC product deployment tools, or the old VMware client.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/27487-1lknvkdktmelm5lknlbtlmw.png)
-
-<figcaption class="wp-caption-text">The goal.</figcaption>
-
-</figure>
+![](/images/27487-1lknvkdktmelm5lknlbtlmw.png)
 
 #### What edition of Windows 10
 
@@ -39,11 +32,7 @@ One of the things you don’t get in the LTSB is the Microsoft Edge browser. If 
 
 So fire up VMware Fusion and create a new VM using your freshly downloaded ISO.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/f7802-1cgdat9enxepf2znn44ukxa.png)
-
-<figcaption class="wp-caption-text">We’re not playing games here.</figcaption>
-
-</figure>
+![](/images/f7802-1cgdat9enxepf2znn44ukxa.png)
 
 *   **Uncheck Easy Install**, because life shouldn’t have an easy button.
 *   **Customize Settings**, I usually give my VM 2 vCPU/cores and 2.5GB of RAM.
@@ -58,11 +47,7 @@ So fire up VMware Fusion and create a new VM using your freshly downloaded ISO.
 
 [https://gist.github.com/vmstan/4ead8d9d251c58d669eac396c30b178f](https://gist.github.com/vmstan/4ead8d9d251c58d669eac396c30b178f)
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/4bc84-106nsatp_vbiazb1id4lvma.png)
-
-<figcaption class="wp-caption-text">Be aware of the quote styles around anything you change or add, otherwise your VM won’t boot.</figcaption>
-
-</figure>
+![](/images/4bc84-106nsatp_vbiazb1id4lvma.png)
 
 #### Installing Windows
 
@@ -79,11 +64,7 @@ Set a local username, if you’re not using Enterprise you have to jump through 
 
 After the installer processes complete, you’re dumped to a halfway functional desktop. Perform your standard VMware Tools install to get all your network and display drivers, reboot.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/286d2-1n0yt_1ofk2ymqptsvxyj4w.png)
-
-<figcaption class="wp-caption-text">The all important VMXNet3 driver.</figcaption>
-
-</figure>
+![](/images/286d2-1n0yt_1ofk2ymqptsvxyj4w.png)
 
 Drop in your license key to activate Windows and then run Windows Update, reboot. Unlike prior versions of Windows, updating a new Windows 10 installation isn’t usually a horrible cycle of download 147 packages to update, reboot, update more, reboot again, update even more, reboot, process. Kudos to Microsoft on that.
 
@@ -91,11 +72,7 @@ After installing updates and rebooting it was necessary for me to run a repair p
 
 Enable sharing between your VM and Mac downloads folder, I don’t like sharing the other folders because I only rarely use them from Windows and don’t like them messing with my Mac files. I also have an SD card in my Mac with archived installers and such, so I share that as well.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/986a6-1elq2k5yjwiggkc8b_2n6pg.png)
-
-<figcaption class="wp-caption-text">The Nifty SD card slot is really handy for keeping crap off expensive Apple SSD storage.</figcaption>
-
-</figure>
+![](/images/986a6-1elq2k5yjwiggkc8b_2n6pg.png)
 
 Before we run our optimization tools, **Enable .Net 3.5 from Windows Features** because you’ll need them for the first tool we’re about to run.
 
@@ -103,11 +80,7 @@ Before we run our optimization tools, **Enable .Net 3.5 from Windows Features**
 
 Run [Tron](https://www.reddit.com/r/TronScript/comments/5t1zcc/tron_v1000_20170209_add_wsus_offline_support_add/) to automate the cleanup and removal of junk that Microsoft has in Windows that we’re not going to use.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/934a7-1q95dth3fgki2c6ykahatya.png)
-
-<figcaption class="wp-caption-text">Skip booting into safe mode, when asked by Tron.</figcaption>
-
-</figure>
+![](/images/934a7-1q95dth3fgki2c6ykahatya.png)
 
 The Tron process takes a long time. The script says 4 hours, I don’t find it to be quite that long, but it’s a while. This will run a lot of stuff you don’t necessarily need, like performing anti-malware scans against the system. They won’t take super long since the VM itself is pretty basic at this point, but if you’re pressed for time you can look into CLI options to disable them. Otherwise I just set it and forget it. I went and got a haircut while my copy ran. Overall, it took around an hour.
 
@@ -119,11 +92,7 @@ It’s not that I’m really super paranoid that Microsoft is going to spy on me
 
 Plus, yeah, privacy.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/1fc5d-1f0dowknovp6uvvml6agiew.png)
-
-<figcaption class="wp-caption-text">It sings in the dead of night.</figcaption>
-
-</figure>
+![](/images/1fc5d-1f0dowknovp6uvvml6agiew.png)
 
 Blackbird should only take a few minutes to apply.
 
@@ -146,11 +115,7 @@ If you’re using a consumer version of Windows there will be a lot more here, l
 
 Your milage my vary here. If you connect to a lot of Windows 2000/2003 based shares or have to manage a lot of faxes, act accordingly.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/c8b7f-1iln7clrcrelrzubks18dog.png)
-
-<figcaption class="wp-caption-text">Features? Where we’re going, we don’t need… features.</figcaption>
-
-</figure>
+![](/images/c8b7f-1iln7clrcrelrzubks18dog.png)
 
 An interesting one to remove would be Internet Explorer. I typically use Firefox or Chrome in my Windows VM. If it’s problematic not to have IE installed as well (especially when you don’t have the built in Edge browser from the LTSB install) you can always reinstall it later.
 
@@ -160,11 +125,7 @@ As for PowerShell you’ll likely want to keep this, especially in order to inst
 
 This tool is designed to run in VMware View desktops, and so while the overwhelming majority of the changes this tool makes are beneficial to us, there are a few things that I adjust to accommodate for the fact that this is one VM that I’ll be using, and not a template VM that will be used to roll out 1000 clones in a shared environment.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/aae0b-1ymbzkbm1jlnrfhrppzdl0g.png)
-
-<figcaption class="wp-caption-text">It’s a beautiful Fling.</figcaption>
-
-</figure>
+![](/images/aae0b-1ymbzkbm1jlnrfhrppzdl0g.png)
 
 *   Leave the Windows Firewall enabled, unless you really don’t like firewalls.
 *   Leave UAC enabled, unless you really hate UAC.
@@ -183,27 +144,15 @@ Shut down the VM
 
 Run a disk reclamation on the VM to free up about 3GB of space.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/f01ce-1ftiuskxrtohyu7q8zwqnpw.png)
+![](/images/f01ce-1ftiuskxrtohyu7q8zwqnpw.png)
 
-<figcaption class="wp-caption-text">Click on the refresh circle if you’re not seeing any yellow in the bar.</figcaption>
-
-</figure>
-
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/4395d-104vq_zpuc0-m8xpfkntd6w.png)
-
-<figcaption class="wp-caption-text">Instant 3.1GB.</figcaption>
-
-</figure>
+![](/images/4395d-104vq_zpuc0-m8xpfkntd6w.png)
 
 I go ahead and set my VM hard drive not to go to sleep, because most of the time I have it open it’s being used for a purpose, and I will manually suspend the VM in Fusion when it’s no longer needed. Sometimes I have to use the VM to run updates on EMC VNX systems using Unisphere Service Manager that can take hours at a time. I don’t want the VM to accidently sleep during this time.
 
 A useful tool on the macOS side to prevent your overall system from going to sleep during these activities is a free tool called [Amphemetine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12). You can set it to keep the system alive as long as an application (like VMware Fusion) is running, indefinitely or on a timer.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/42e7e-1mrkfzmvtgotkdq56yddzmq.png)
-
-<figcaption class="wp-caption-text">Free, no adds, no in-app purchase requests. Rock solid.</figcaption>
-
-</figure>
+![](/images/42e7e-1mrkfzmvtgotkdq56yddzmq.png)
 
 From this point it’s a matter of installing my utility applications.
 
@@ -215,8 +164,4 @@ From this point it’s a matter of installing my utility applications.
 *   VMware vSphere “C#” Clients
 *   VMware vSphere PowerCLI
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2017/02/d7243-1bfqyeegipckby4zv5m-tag.png)
-
-<figcaption class="wp-caption-text">The password is… none of your business.</figcaption>
-
-</figure>
+![](/images/d7243-1bfqyeegipckby4zv5m-tag.png)
