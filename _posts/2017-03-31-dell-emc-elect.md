@@ -31,7 +31,7 @@ I seriously thought he was kidding.
 
 But then he sent me [the link to the announcement](https://community.emc.com/docs/DOC-57425), and there was my name, just a couple under Michael Dell. Yes, that Michael Dell.
 
-[embed]https://twitter.com/vmstan/status/847480671492866049[/embed]
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Looking at the <a href="https://twitter.com/hashtag/DellEMCElect?src=hash">#DellEMCElect</a> list, I feel severely out-Michael’d. <a href="https://t.co/h5u5uQPxgr">pic.twitter.com/h5u5uQPxgr</a></p>&mdash; Michael Stanclift (@vmstan) <a href="https://twitter.com/vmstan/status/847480671492866049">March 30, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I’m not new to the concept of these influencer marketing programs. I’ve been a member of the VMware vExpert program for five years. In the past, I’ve been a member of the Cisco Champions for Data Center program but missed a deadline to reapply the next year. I’m aware of the numerous other ones, that have sort of sprung up in the wake of the vExpert program within the data center infrastructure community. I take a lot of them for what they are, marketing programs, and not necessarily reflective of any pinnacle of particular expertise.
 
