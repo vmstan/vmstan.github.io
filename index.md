@@ -14,11 +14,13 @@ layout: default
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
 {% if post.lead %}
-<p>{{ post.lead }}</p>
+<div class="entry">{{ post.lead }}</div>
 {% else %}
-<p>{{ post.excerpt }}</p>
+<div class="entry">{{ post.excerpt }}</div>
 {% endif %}
-<h5><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %-d, %Y'}}</time></h5>
+<div class="date">
+{{ page.date | date: "%B %e, %Y" }}
+</div>
 
 {% endif %}
 
