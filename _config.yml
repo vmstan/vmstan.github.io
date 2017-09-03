@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Virtually Benevolent
 description: Michael Stanclift
-permalink: /:year/:title
+permalink: /:year/:month/:title
 plugins:
    - jekyll-mentions
    - jemoji
