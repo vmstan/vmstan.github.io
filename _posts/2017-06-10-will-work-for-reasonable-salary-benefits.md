@@ -13,8 +13,6 @@ My process was around the same time that my friend [@davemhenry](https://twitter
 
 Someone [eventually hired Dave](http://geekfluent.com/2017/05/22/job-search-successful-im-headed-to-the-cloud/).
 
-* * *
-
 I have never used a third-party recruiter in any of my job quests. I’ve always been a direct applicant and it was no different this time. I’m sure people have had good success with external recruiters, but I’ve never tried. I’ve [shared my thoughts](https://vmstan.com/new-recruit-er-239b48359021) before, on that process.
 
 It just seems like even direct recruiters could do better to make the process suck less for the people on the other end. If the application, interview and waiting process is completely crushing all your enthusiasm, what does that say about your future if you’re offered a job there?
@@ -36,8 +34,6 @@ Since the offer was accepted, I’ve continued to be impressed by the manager an
 I didn’t even get an afternoon of “true” unemployment.
 
 Even this weekend, I got a personal email from the recruiter letting me know how excited they were for me to be starting on Monday. This is a multi-billion dollar company with thousands and thousands of employees. To say that I was impressed by the efficiency and professionalism through this entire process is an understatement.
-
-* * *
 
 During my search, I had other companies that I was talking to. This is actually atypical for me. It sounds strange, but my last three jobs were essentially I knew I wanted to work for Company X, and so I figured out how to make it happen. In fact, with one of my past employers, I purchased my house less than a mile from to their headquarters with the intent of going to work for them eventually.
 
