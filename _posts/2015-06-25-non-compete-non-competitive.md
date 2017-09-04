@@ -2,7 +2,7 @@
 layout: post
 title: The one thing hurting your company's quest for talent
 date: 2015-06-25 00:57
-externalurl: http://fortune.com/2015/06/23/the-one-thing-hurting-your-companys-quest-for-talent/
+external_url: http://fortune.com/2015/06/23/the-one-thing-hurting-your-companys-quest-for-talent/
 host: Fortune
 ---
 
