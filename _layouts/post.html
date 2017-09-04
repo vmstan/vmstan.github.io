@@ -6,8 +6,8 @@ layout: default
 
   {% if page.external_url %}
   
-    <div class="date">Linked from <a href="{{ page.external_url }}">{{ page.host }}</a></div>
-    <h2>{{ page.title }} &#8594;</h2>
+    <div class="date">Linked from {{ page.host }} <a href="{{ page.external_url }}">&#8594;</a></div>
+    <h2>{{ page.title }}</h2>
   
   {% else %}
   
