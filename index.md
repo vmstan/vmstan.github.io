@@ -14,7 +14,11 @@ layout: default
 <ul>
 {% endif %}
 
+{% if post.external_url %}
+<li><a href="{{ post.url }}">{{ post.title }}</a> via {{ post.host }} <a href="{{ post.external_url }}">&#8594;</a></li>
+{% else %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endif %}
 
 {% if forloop.last %}
 </ul>
