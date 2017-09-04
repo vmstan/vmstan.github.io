@@ -6,12 +6,6 @@ date: 2016-08-18 19:44
 
 You know you have a problem when you get excited about plan changes on your cellular provider. Yesterday, [AT&T gave me a problem](http://about.att.com/story/att_introduces_mobile_share_advantage.html).
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2016/08/7d9ea-1vw4zoza1upvaaldidemaig.jpeg)
-
-<figcaption class="wp-caption-text">The Death Star must be financially viable (Photo via NYTimes)</figcaption>
-
-</figure>
-
 Initially, no more data overages, higher caps, and reduced pricing tiers looks like good news all around, but is that really true? After looking at the details of these new AT&T data plans I’m less than impressed. **They’ve upped the per device access charge from $15 to $20.**
 
 Right now I have the $100 plan for 15GB, plus three devices, for a total of $145\. Under the new plan, if I move to the similar the 16GB plan the base price is $90 but I’m now paying $60 in per device charges for a total of $150\. (+$5)

@@ -2,11 +2,11 @@
 layout: post
 title: Cisco to audit code in wake of Juniper backdoor
 date: 2015-12-29 08:55
+featured_image: /images/4dc97-1dmu8q3fj6n_qo9xosnr7pa.jpeg
+featured_alt: Cisco Switch
 ---
 
 In the wake of [an announcement by Juniper](https://www.petri.com/juniper-finds-backdoor-exposing-encrypted-vpn-traffic) that after an internal code audit, they had uncovered two backdoors in the operating systems used in their NetScreen firewalls, Cisco has announced that they’re taking similar steps to perform an audit of their code.
-
-<figure>![](https://vmstanblog.files.wordpress.com/2015/12/4dc97-1dmu8q3fj6n_qo9xosnr7pa.jpeg)</figure>
 
 In [a blog post](http://blogs.cisco.com/security/update-for-customers) by Anthony Grico, Senior Director of the Security and Trust Organization within Cisco, the company outlines that although their normal development practices should detect unauthorized code from sneaking into their products, no process can eliminate all risk. The company will be conducting penetration testing and code reviews.
 

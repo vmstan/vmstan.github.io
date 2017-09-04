@@ -3,6 +3,8 @@ layout: post
 title: Will work for reasonable salary + benefits
 date: 2017-06-10 15:28
 permalink: /will-work-for-reasonable-salary-benefits-a12ad5004ad8
+featured_image: /images/08cd9-1_nnm6arujvw0ibppxtkx9q.jpeg
+featured_alt: Working hard
 ---
 
 The process of looking for a new job is stressful. If you already have one, you’re a bit like a secret agent, sneaking around town trying to complete the mission of getting someone new to agree to sign your paychecks, without the old boss finding out. If you don’t have a job, it’s even more stressful, as you wait around and watch your bank accounts dwindle, with nothing to replenish it.
@@ -52,8 +54,6 @@ Still, maybe tell me I’m pretty before you dump me.
 Another vendor, I applied for a sales position with back in March. I had multiple internal referrals. I don’t have a background in sales, but I know the technical subject matter inside and out from a post-sales role, and wanted to at least see if I could talk about making the jump. I had the contact information for the hiring manager and left a voicemail one afternoon as an introduction, but I didn’t hear a peep from anyone for a long time.
 
 Finally after two months, during the last week of interviews with my new employer, the recruiter reached out to let me know I was actually one of two people being considered. Then despite the excitement in that call, I didn’t hear anything else from them again until after I had another offer. I was then told I was no longer under consideration despite never having spoken to anyone else.
-
-![This probably seems like a more accurate representation of the new role. Photo by Olu Eletu on Unsplash](https://vmstanblog.files.wordpress.com/2017/06/06d38-1tkoqpifdhlyxj9huit9weg.jpeg)
 
 For a brief period of time, I considered the possibility of relocating. One VAR that I applied to, I had an internal referral for and the day after filling out the application got an email from the recruiting manager to let me know they were interested. He asked when I was available for a call, so I replied with possible times over the next few days. I then didn’t hear anything back for a week. I politely replied again with some refreshed dates and got an apology for missing the previous email. I was told I’d be called that next afternoon, but my phone never rang. I reached out to my internal contact to see what was going on, and then the next week got another email with a time scheduled for a call, and we had a nice chat.
 

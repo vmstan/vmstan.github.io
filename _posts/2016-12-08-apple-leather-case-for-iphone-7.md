@@ -26,11 +26,7 @@ When my iPhone 7 arrived in September, I resisted the urge to get back into test
 
 It had… buttons.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2016/12/660ed-1ra6b64itpn2ifsp_nhfyvq.jpeg)
-
-<figcaption class="wp-caption-text">Actual metal buttons</figcaption>
-
-</figure>
+![Actual metal buttons](/images/660ed-1ra6b64itpn2ifsp_nhfyvq.jpeg)
 
 And yet, I resisted, I hovered over the order button a few times, until the one that I wanted was eventually out of stock and on a multiple week backorder. Eventually, I gave in and picked up the midnight blue version from local Apple store. I didn’t love the color, but I loved the buttons.
 

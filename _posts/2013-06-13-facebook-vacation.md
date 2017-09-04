@@ -5,9 +5,7 @@ date: 2013-06-13 16:00
 ---
 
 
-#### I’ve logged out from every device, removed the apps, the bookmarks, integration to operating systems.
-
-I’m taking a Facebook Vacation.
+I’ve logged out from every device, removed the apps, the bookmarks, integration to operating systems. I’m taking a Facebook Vacation.
 
 The duration will be as long as I can swing it. There may be a point at which I can’t take it and come crawling back. I wouldn’t say I’m having withdrawal, but when I woke up this morning and got on my phone, the first thing I would normally do would be to open the app.
 

@@ -30,7 +30,7 @@ That’s not to say that there weren’t other benefits to my involvement. The N
 
 Neowin was my life for most of those years, so much so that the groomscake at my wedding in 2008 was a surprise from my wife: The Neowin Logo.
 
-![](/images/9c9e1-1x8qwoejnyai9mgssxgnh_a.jpeg)
+![Yum](/images/9c9e1-1x8qwoejnyai9mgssxgnh_a.jpeg)
 
 I left the site in mid-2009, for reasons now that I don’t exactly remember. There was a lot of infighting between staffers at the time, mostly centered around the North American/Europe divide and the lack of representation among the US and Canadian staffers, among the Administrators.
 

@@ -9,7 +9,7 @@ A couple of months ago I noticed a rash on my wrist, under my Apple Watch. I did
 
 But the rash didn’t go away, it actually got worse, and it seemed to be localized to one spot on the back of my wrist, right where the metal clasp of the sports band rubbed by arm.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2015/09/030f7-0roxrbun6y2d03kt4.jpg)</figure>
+![](/images/030f7-0roxrbun6y2d03kt4.jpg)
 
 And it was getting painful.
 
@@ -39,7 +39,7 @@ It arrives today.
 
 For those of you who keep track, I’ve actually had the leather loop before, for about 18 hours. I bought it on an impulse. Twice, actually. The first time I ordered it with the watch before it shipped, but then cancelled it to give the sports band a proper evaluation. The second time, was in the store, but I had buyers remorse at the $150 price tag. (More accurately, I decided it wasn’t worth trying to justify to the wife.)
 
-<figure>![](https://vmstanblog.files.wordpress.com/2015/09/5386c-0pkmcvrvbnjeqgavl.jpg)</figure>
+![](/images/5386c-0pkmcvrvbnjeqgavl.jpg)
 
 For now, I’m still sporting bandages under my watch, to clear up the second coming of the rash. My next problem is figuring out what to do about the fact that the leather band isn’t appropriate for working out in.
 

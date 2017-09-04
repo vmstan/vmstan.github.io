@@ -9,12 +9,12 @@ I just got finished with a customer issue who had deployed Cisco Jabber along wi
 
 After looking into this, what it looked like was happening was that the Jabber configuration XML files were not being sync’d down to the local PC before the Jabber client was launching and this was causing the settings to default back to a non-setup state. Even though the configuration data stored in jabberLocalConfig.xml was saved to the Persona Management share it never had a chance to get loaded before it was overwritten.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2014/07/45281-0kmvhljy_-krcsley.png)</figure>
+![](/images/45281-0kmvhljy_-krcsley.png)
 
 The issue was resolved by adjusting Persona Management group policies to precache the settings stored on the persona share to the virtual desktop before completing login.
 
 Modify the Persona Management GPO setting “Files and folders to preload” to include the following directory:
 
-<pre>AppDataRoamingCiscoUnified CommunicationsJabberCSF</pre>
+    AppDataRoamingCiscoUnified CommunicationsJabberCSF
 
 Server settings, custom adjustments to the client are now maintained across desktop sessions. WIN!

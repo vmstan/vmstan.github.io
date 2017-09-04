@@ -19,7 +19,7 @@ Everything I’m going to show you is documented from the VMware KB. If you’d 
 
 The first thing you’ll need to do is enable SSH on your hosts. Best practice is to leave SSH off and only turn it on when you need it. You can enable it by opening up the vSphere Client, selecting the Host and Clusters view, and then selecting the host you want to enable SSH on in the left hand window. Select the Configuration tab, and then Security Profile from the options on the left. Under services you’ll see SSH. Click on Properties, select SSH from the list of services, and then press Options. In the window, press Start to enable the SSH service. Leave the settings that ask you about starting this service automatically set to manual. For security, you don’t want SSH turned on all the time. You’ll also get warnings from each host it’s enabled on if you leave it turned on. When we’re done you’ll want to come back here and disable SSH on your host. (Note: If you’ve previously closed port 22 on your ESXi firewall, you’ll need to open that back up. By default the port is open but the service is not running.)
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/35554-0n1hz95yksnikzvwf.png)</figure>
+![](/images/35554-0n1hz95yksnikzvwf.png)
 
 At this point you need to SSH into your host as root. Keep in mind unless you joined your ESXi box to your Active Directory domain, you probably can’t just use your normal network account to get into the host this way. It’s going to be root or another local account you’ve created.
 
@@ -29,7 +29,7 @@ If you’re on Windows, I suggest using [Putty](http://www.chiark.greenend.org.u
 
 (I’m normally a Mac user, but I access my work demo lab through a Windows 7 virtual machine running on VMware View. So here is the results from Putty.)
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/1f7dd-0jzmp8aexp3zkst7e.png)</figure>
+![](/images/1f7dd-0jzmp8aexp3zkst7e.png)
 
 You’ll want to do is navigate to a location you can easily access through the vSphere datastore browser. The reason is we’re going to be running a command and outputting the results to a text file so we can easily get the information we want. I suggest using a local disk on the host, ISO/template datastore or maybe a shared datastore that you use for things like dumping host logs. The output file is going to just a few MBs, so it’s not really critical as long as it’s easily accessible. When we’re done we’re going to delete it from the host.
 
@@ -45,19 +45,19 @@ You can call the file after the > whatever you want. Most of the time I keep it 
 
 At this point you can go back to the vSphere Client and open up the Datastore Browser on the datastore you ran the command on. You can get to this easily by clicking on the host in Host and Clusters and then under the Summary page, right clicking on the datastore listing and then Browse Datastore.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/4c232-0gs5cepw5vv29u8h1.png)</figure>
+![](/images/4c232-0gs5cepw5vv29u8h1.png)
 
 Use the Datastore Browser to download the file to your desktop. (Right click file > Download)
 
 Now the problem with this file is that Notepad doesn’t know how to handle the way ESXi outputs the file, so when you open it up it looks a little something like this:
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/fff97-0wdzekud3nompknsw.png)</figure>
+![](/images/fff97-0wdzekud3nompknsw.png)
 
 I would suggest opening the file in something like [Notepad++](http://notepad-plus-plus.org) which is really far more useful and can read the log file correctly. It’s also helpful for other VMware logs that don’t save whitespace in a way Notepad likes. (Note, Mac users can open the file in TextEdit just fine.)
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/ad582-0fbqfjbxdmtugzitr.png)</figure>
+![](/images/ad582-0fbqfjbxdmtugzitr.png)
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/35bb1-0rqb3fyego3linzgp.png)</figure>
+![](/images/35bb1-0rqb3fyego3linzgp.png)
 
 Run a search within the document and find the section that starts as _Dumping instances of CIM_PhysicalMemory_. You’ll see the first entry as _Tag = 32.0_ and if you scroll down all the way though the section it’ll go until run out of memory slots. For instance, the server I ran my export on is a Cisco UCS B250 with 46 memory slots, so the last entry will be _32.45_.
 
@@ -105,13 +105,13 @@ You can call the file after the > whatever you want. Most of the time I keep it 
 
 At this point you can go back to the vSphere Client and open up the Datastore Browser on the datastore you ran the command on. You can get to this easily by clicking on the host in Host and Clusters and then under the Summary page, right clicking on the datastore listing and then Browse Datastore.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/8742a-0e75roa_-ssfityab.png)</figure>
+![](/images/8742a-0e75roa_-ssfityab.png)
 
 Use the Datastore Browser to download the file to your desktop. (Right click file > Download)
 
 Run a search within the document and find the section that starts as _Physical Memory Array_. You should see a summary that lists how many slots the system has, as well as the maximum memory size. Then there will be an entry listed for each memory slot. For instance, on the Dell R710 I ran an export on, there were 18 slots for a maximum of 192GB. If there is memory installed in the slot you’ll see the size of the DIMM, otherwise you’ll see _No Module Installed_ under size.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/6e327-0tuknykyo9ls_a_kv.png)</figure>
+![](/images/6e327-0tuknykyo9ls_a_kv.png)
 
 At this point you can delete the file from the host, if you choose, either by utilizing the Datastore Browser or at the SSH session you may still have open.
 

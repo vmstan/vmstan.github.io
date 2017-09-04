@@ -7,7 +7,7 @@ date: 2016-11-30 16:34
 
 Recently I had two VMware Horizon View proof of concept setups for work, where we designed an all in one Cisco UCS C240 M4 box, full of local SSD and spindles, in various RAID sets. This lets the customer kick the tires on View in a small setup to see if its a good fit for their environment, but on something more substantial than cribbing resources from the production environment.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2016/11/b0550-1tvwnp9iow_upjucztazejg.png)</figure>
+![](/images/b0550-1tvwnp9iow_upjucztazejg.png)
 
 *   5x 300GB 10K SAS RAID 5 for Infrastructure VMs (vCenter, View Broker/Composer, etc)
 *   10x 300GB 10K SAS RAID 10 for VM View Linked Clones
@@ -54,6 +54,6 @@ So, long story short, if you’re using local RAID sets for anything other than 
 *   Reboot the host
 *   Reconnect via SSH, and run core adapter list command to verify it’s active
 
-[https://gist.github.com/vmstan/ca4bb3e2e305174e278af9a63b6287b8](https://gist.github.com/vmstan/ca4bb3e2e305174e278af9a63b6287b8)
+<script src="https://gist.github.com/vmstan/ca4bb3e2e305174e278af9a63b6287b8.js"></script>
 
 This should verify that your RAID controller (typically either vmhba0 or vmhba1 is now using the megaraid_sas driver. If the “UID” is listed as “Unknown” in this readout, it’s normal.

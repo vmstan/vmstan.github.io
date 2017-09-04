@@ -21,7 +21,7 @@ Why is this such a big deal? Because security threats targeting users of Interne
 
 The most recent threat, has no effect on users of Internet Explorer 7 or 8, even on Windows XP. Actually, Jonathan Ness over at [MSRC Engineering](http://blogs.technet.com/srd/archive/2010/01/15/assessing-risk-of-ie-0day-vulnerability.aspx) put together a nice little chart explaining what browsers and operating systems are at risk with the latest attack vector.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/01/9443d-0dqceb2lbw4ikpm1r.png)</figure>
+![](/images/9443d-0dqceb2lbw4ikpm1r.png)
 
 The short of it, if you’re still running Windows 2000 on workstations, you should be fired. If you’re running Windows XP and Internet Explorer 6, you should march into your CIO’s office on Monday and demand that you _at least_ figure out how to migrate to Internet Explorer 7 ASAP, meanwhile worry that your network isn’t the next one to be attacked by these unpatched exploits. If you’re running Internet Explorer 7, you should turn DEP on to prevent future threats, or see if migrating to Internet Explorer 8 is possible.
 

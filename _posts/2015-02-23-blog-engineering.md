@@ -12,7 +12,3 @@ Recently I’ve been considering a move from Ghost to GitHub Pages. It’s the h
 I’ve been playing with it for the last 24 hours or so. I can’t seem to decide if going to all the effort is worth it. I rather like what I’m using now ([Ghost](http://ghost.org)), it’s pretty simple, but with just enough features to do what I _really_ need it to do. It seems like spending time moving away from it, for me, is sort of a solution in search of a problem. I already write in Markdown inside Ghost (required) and was doing so on previous platforms for this site including [Octopress](http://octopress.org) and [Second Crack](http://www.marco.org/secondcrack).
 
 Might just stick with what works, and find more stuff to write about…
-
-* * *
-
-_Originally published at vmstan.com on February 23, 2015._

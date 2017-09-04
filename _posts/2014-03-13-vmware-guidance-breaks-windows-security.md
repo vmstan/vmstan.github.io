@@ -2,14 +2,10 @@
 layout: post
 title: VMware guidance breaks Windows security
 date: 2014-03-13 04:00
+featured_image: /images/c58bc-0mbkdaq6go06vhle0.png
+featured_alt: Oops
 ---
 
-
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2014/03/c58bc-0mbkdaq6go06vhle0.png)
-
-<figcaption class="wp-caption-text">Oops.</figcaption>
-
-</figure>
 
 I’ve been using the [Windows Optimization Guide for View Desktops](http://www.vmware.com/resources/techresources/10157) guide on the VMware website for a long time. Hidden inside the PDF are some text file attachments that when converted to .bat, run though and disable most of the functions that bloat virtual desktop linked clones or are totally uncessary when accessed from a thin client or mobile device. However around October of last year during a customer engagement I noticed the PDF was updated with a revised version. That version has caused me a lot of headaches.
 
@@ -23,7 +19,9 @@ I’d never got around to figuring out exactly what caused this issue, and becau
 
 ASLR was a feature added to Windows starting with Vista. It’s present in Linux and Mac OS X as well. For reasons unknown, the VMware scripts disable ASLR. Specifically, it’s done by this registry entry command:
 
-<pre>reg ADD "HKLMSystemCurrentControlSetControlSession ManagerMemory Management" /v MoveImages /t REG_DWORD /d 0x0 /f</pre>
+``` r
+reg ADD "HKLMSystemCurrentControlSetControlSession ManagerMemory Management" /v MoveImages /t REG_DWORD /d 0x0 /f
+```
 
 Internet Explorer will not run with ASLR turned off. After further testing, neither will Adobe Reader. Two programs that are major targets for security exploits, refuse to run with ASLR turned off.
 
@@ -39,7 +37,7 @@ Back in 2011, [a VMware blog entry by Eric Horschman](http://blogs.vmware.com/vi
 
 The same is true from André Leibovici (previously an Architect in the Office of the CTO End User Computing at VMware, now with Nutanix, and someone I consider to be a virtual desktop expert) who on his site [myvirtualcloud.net](http://myvirtualcloud.net/?p=2545) back in 2011 had this to say about ASLR, specifically in VDI:
 
-> _Is it a good practice to disable ASLR? The short answer is No. Unless you are pushing very high levels of memory overcommit in a 32-bit desktop VDI environment, you have a lot more to lose than to gain from disabling ASLR. On 64-bit platforms the loss of opportunities to share pages is much less due to the large memory page nature._
+> Is it a good practice to disable ASLR? The short answer is No. Unless you are pushing very high levels of memory overcommit in a 32-bit desktop VDI environment, you have a lot more to lose than to gain from disabling ASLR. On 64-bit platforms the loss of opportunities to share pages is much less due to the large memory page nature.
 
 So how did this get added to the standard optimization script? Given VMware’s public position that runs contrary to this, I assume it’s there by mistake. I actually notified VMware about the fact that the script was breaking Internet Explorer back in October but it apparently had never been isolated, or possibly never investigated.
 

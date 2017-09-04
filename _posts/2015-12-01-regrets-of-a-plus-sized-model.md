@@ -15,7 +15,7 @@ That’s what everyone had been asking me since I even brought up the idea of sw
 
 And then came the iPhone 6… and the iPhone 6 Plus. The Apple Phablet had arrived.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2015/12/63535-0o5hyjqfopwlaly_i.jpg)</figure>
+![](/images/63535-0o5hyjqfopwlaly_i.jpg)
 
 Admittedly, the thought to join the dark side had entered my mind a few times since the 6 Plus was announced. Would I want a phone this big? Could I handle a phone this big? Back in September, I said “Nope!”
 
@@ -41,7 +41,7 @@ It is massive. It’s great for use around the house or at the office, when you�
 
 Going out with it felt a little bit like having an iPad to contend with. My car didn’t really have a convenient place to put it and at one point we had family pictures done and I forgot to empty my pockets. Now, the giant rectangle in my pants will be forever immortalized in print.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2015/12/d3930-0qbu4ns9_6lj2fv7f.jpg)</figure>
+![](/images/d3930-0qbu4ns9_6lj2fv7f.jpg)
 
 And the struggle with RAM, is real. There simply isn’t enough in it. Having a page open in Safari, and then switching back to a different one caused the site to reload. Having streaming audio from Apple Music running and then opening Tweetbot would cause jitter. It was annoying but not life threatening.
 

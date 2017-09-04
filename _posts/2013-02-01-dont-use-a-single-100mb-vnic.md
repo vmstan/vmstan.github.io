@@ -2,10 +2,9 @@
 layout: post
 title: Don’t use a single 100mb vNIC
 date: 2013-02-01 18:00
+featured_image: /images/31116-0jw5z3dycff9kc-30.png
+featured_alt: 100mb
 ---
-
-
-![](https://vmstanblog.files.wordpress.com/2013/02/31116-0jw5z3dycff9kc-30.png)
 
 1.  You really should never use 100mb networking with VMware for much of anything. I’m not even sure 100mb networking has any place in a modern datacenter, except maybe cheap connectivity to something like an iLO/DRAC.
 2.  You should avoid using a single vNIC for any vSwitch, unless you just don’t care about things like load balancing or network redundancy.

@@ -22,12 +22,6 @@ Mitt Romney is by all accounts an honorable man, and would have kept this countr
 
 Now is the election of 2016, and there’s a chance that Donald Trump, could be our next President.
 
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2016/11/1e114-11jnfjtz0kwieiabjpqpxxg.jpeg)
-
-<figcaption class="wp-caption-text">Ugh.</figcaption>
-
-</figure>
-
 I repeat: there is a chance that this racist, fascist, sexist, disgusting excuse for a man, could be the next President of the United States.
 
 I have two young boys. They know who we support in this election. My oldest son was more upset than I was when someone stole the Clinton/Kaine yard sign from our yard. In a year when it’s not popular to advertise that you endorse either candidate, it’s even more important to take a stand.

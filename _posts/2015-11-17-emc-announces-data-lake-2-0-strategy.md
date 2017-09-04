@@ -3,7 +3,7 @@ layout: post
 title: EMC announces Data Lake 2.0 strategy
 date: 2015-11-17 09:59
 featured_image: /images/e4730-12z1wc7pf74eftpkhipfn3q.jpeg
-featured_alt:
+featured_alt: Isilon Nodes
 ---
 
 Data Lake 2.0 is the next generation of the EMC Isilon portfolio. Isilon is EMC’s scale-out network attached storage product. Traditionally, Isilon OneFS runs on physical nodes, with the cluster scaling from roughly 30 TB of raw capacity, all the way up to 50 PB. The nodes are all connected across a redundant, private, Infiniband network. But next year, EMC will offer two more ways to utilize Isilon. In addition to the traditional setup, EMC will offer “Cloud Pools” and “IsilonSD Edge” products.

@@ -2,6 +2,8 @@
 layout: post
 title: This is a post about my pants
 date: 2016-12-07 19:40
+featured_images: /images/c113a-1l9clcrnvwjtfifi5lw30aw.jpeg
+featured_alt: These pants are my bag, man. Wait, no, these pants came in this bag.
 ---
 
 I have some strict requirements around work pants. My wife hates the “I can see your socks while you’re standing up” hipster look, so they have to be full length. Honestly it’d be a great look since I’m 6'4" but as a result I’m at a 36" inseam. I’m also currently 220lbs, which results in a 36" waist. I could probably lose some weight, but it’s not happening today.
@@ -9,12 +11,6 @@ I have some strict requirements around work pants. My wife hates the “I can se
 I also have a job that’s requires me to dress nicely to meet a customer in the morning, but be willing to crawl under raised floors and chuck 50# boxes around later that afternoon, without a change of clothes. Expensive slacks will get destroyed. Wearing jeans everyday is frowned upon. I also don’t want to deal with getting pants tailored.
 
 Between size, cost, looks and durability, I’ve found one pair of pants that consistently meet all my requirements.
-
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2016/12/c113a-1l9clcrnvwjtfifi5lw30aw.jpeg)
-
-<figcaption class="wp-caption-text">These pants are my bag, man. Wait, no, these pants came in this bag.</figcaption>
-
-</figure>
 
 [Eddie Bauer Men’s Legend Wash Chino Pants](http://www.eddiebauer.com/product/men--39-s-legend-wash-chino-pants---classic-fit/10307484/_/A-ebSku_0035697938009550__10307484_catalog10002_en__US?showProducts=111&backToCat=&previousPage=SRC&tab=&color=241). Classic fit, preferrably in slate.
 

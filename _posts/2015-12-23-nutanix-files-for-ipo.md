@@ -2,6 +2,8 @@
 layout: post
 title: Nutanix files for IPO
 date: 2015-12-23 11:01
+featured_image: /images/a24c8-1mncom7otdnjnliqo-dvesw.png
+featured_alt: Nutanix
 ---
 
 Nutanix announced on Wednesday that it has filed a [Form S-1](http://www.sec.gov/Archives/edgar/data/1618732/000119312515411021/d937439ds1.htm) with the SEC for a proposed IPO.
@@ -9,8 +11,6 @@ Nutanix announced on Wednesday that it has filed a [Form S-1](http://www.sec.gov
 The number of shares being offered and the price of the offering have not yet been determined, although the company says it intends to raise a maximum of $200 million; Nutanix will be listed as “NTNX” on NASDAQ.
 
 Nutanix specializes in hyper-converged infrastructure that merges the traditional silos of the physical server, virtualization hypervisor and storage into one integrated solution. It competes in that space with companies like SimpliVity, EMC, and VMware’s VSAN.
-
-<figure>![](https://vmstanblog.files.wordpress.com/2015/12/a24c8-1mncom7otdnjnliqo-dvesw.png)</figure>
 
 Their solution is comprised of two product families, Acropolis and Prism, and is delivered on commodity x86 servers; Acropolis is their in-house hypervisor software. That’s a unique selling point in this market, in which most hyper-converged providers normally resell VMware’s ESXi platform, or in the case of VMware VSAN, are delivered by VMware itself. Nutanix originally, and still, allows customers to utilize the VMware hypervisor if they choose, instead of Acropolis. Prism is their virtualization and infrastructure management platform.
 

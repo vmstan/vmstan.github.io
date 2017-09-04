@@ -2,14 +2,14 @@
 layout: post
 title: Uber & Kansas
 date: 2015-05-06 02:13
+featured_image: /images/81f30-0p0tvdew_zmaxvvs1.png
+featured_alt: Uber
 ---
 
 
-<figure>![](https://vmstanblog.files.wordpress.com/2015/05/81f30-0p0tvdew_zmaxvvs1.png)</figure>
-
 This afternoon, this image and rants from angry Kansans hit my Twitter timeline. I didn’t even realize prior to today, that it was even a thing, and when I saw Uber’s announcement my reaction was, immediately … **I can’t believe I agree with Governor Brownback!**
 
-> _“As I said when I vetoed this bill, Kansas should be known as a state that welcomes and embraces innovation and the economic growth that comes with it. Over-regulation of businesses discourages investment and harms the open and free marketplace. Uber, and other innovative businesses, should be encouraged to operate, grow and create jobs here in Kansas.”_
+> “As I said when I vetoed this bill, Kansas should be known as a state that welcomes and embraces innovation and the economic growth that comes with it. Over-regulation of businesses discourages investment and harms the open and free marketplace. Uber, and other innovative businesses, should be encouraged to operate, grow and create jobs here in Kansas.”
 
 I don’t disagree. I want innovation, and I especially want it here in Kansas where I’ve lived for 31 years.
 

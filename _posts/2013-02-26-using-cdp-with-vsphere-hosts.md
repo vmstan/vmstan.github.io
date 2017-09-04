@@ -22,11 +22,11 @@ You might expect that the MAC addresses of the vSwitch’s individual NICs would
 
 If you open the vCenter GUI and go to the Configuration > Networking section, next to each of the physical adapters configured in a vSwitch, you’ll see a blue box. Click on it, and if you’re using Cisco switches (and why wouldn’t you) you’ll see all the data about the switch, port, and configuration of the network port.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/5c998-0yfwqfbxatvb-qpjq.png)</figure>
+![](/images/5c998-0yfwqfbxatvb-qpjq.png)
 
 You’ll also get these results if you’re running on a UCS chassis against a Nexus switch, but in a slightly different format. With the UCS and other blade chassis type systems you can actually find other ways to determine the switch port you’re connected to, but that’s a topic for another blog post (and once I get more experience on the UCS.)
 
-<figure>![](https://vmstanblog.files.wordpress.com/2013/02/88bf9-0_mdpflctnok2yi6s.png)</figure>
+![](/images/88bf9-0_mdpflctnok2yi6s.png)
 
 #### What if none of this works?
 

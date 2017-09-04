@@ -8,9 +8,7 @@ date: 2013-06-30 02:00
 Something stood out from [an article on the Birth Without Fear site](http://birthwithoutfearblog.com/2011/08/28/emergency-c-sections-incubators-hospital-protocol-men-experience-birth-trauma-too/) that Sadie sent me earlier tonight:
 
 > _I have watched her move on past the trauma and postpartum depression by herself. I was there, but I am not a trained counselor or therapist. There’s only so much emotional support I can offer because I have never experienced it first hand._
-
 > _But what about me? What about the husbands reading this or the husbands of the women reading this? What happens to them when they see their wife’s plans go up in smoke, when the hospital staff mistreats or violates their wife, when these supposed childbirth care providers instill their ignorant fears and hospital protocol on humans in a one-size-fits-all manner? What happens when we are there to support our wives through the thick and thin, but can’t because only she can birth her baby?_
-
 > _I was there to support Mrs. BWF, but I never realized I needed someone there to support me._
 
 Sadie [has covered in detail](http://michaelandsadie.com/2012/07/19/6-months-old/) the events of Pearson’s birth, [and how its effected her.](http://michaelandsadie.com/2012/12/17/c-sectionupdate/) When it comes to moms recovering from traumatic deliveries, there is an abundance of literature, support mechanisms, and well wishers out there. There were many people who were looking out for postpartum depression in her.

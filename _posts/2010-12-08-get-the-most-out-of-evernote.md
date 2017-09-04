@@ -44,7 +44,7 @@ How many times have you been working on something and got an error message you w
 
 If you’d put that screenshot into Evernote you’d be able to search of a string of text inside the screenshot and pull the image from it’s archive. No file names or locations to remember.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/12/2ee25-0u-z4qgqzhnkqyopg.png)</figure>
+![](/images/2ee25-0u-z4qgqzhnkqyopg.png)
 
 In this example just searching for a word in the image resulted in what I was looking for. Notice the word ‘protection’ highlighted in the screenshot. This feature is available to both free and premium users, but it’s one example of where paying a little extra helps out. When you sync your data up into the Evernote cloud, their servers instantly begin indexing the content and in this case use OCR technology to turn the text in the image into searchable content.
 
@@ -56,7 +56,7 @@ If you’re using Internet Explorer, the clipper automatically installs when you
 
 If you’re using [Google Chrome](https://chrome.google.com/extensions/detail/pioclpoplcdbaefihamjohnefbikjilc) or [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/8381), there are plugins avaliable for download from the addon pages for each browser.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/12/1182f-0gheiti8vbmwpvget.png)</figure>
+![](/images/1182f-0gheiti8vbmwpvget.png)
 
 If you’re using Opera or some other less popular browser that Evernote hasn’t got around to creating a plugin for, you can also use their [Bookmarklet](http://www.evernote.com/about/download/web_clipper.php). While not quite as elegant as the plugin options, it’s better than nothing.
 
@@ -64,15 +64,15 @@ Also, because you can index the content of a screenshot, if you want to remember
 
 One feature exclusive to Google Chrome users who have the plugin installed is the ability to search within your Evernote archive for files when you’re on Google.com. Why go looking for something all over again that you may have already found and clipped into Evernote?
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/12/7fbc0-0hik-bkkzgqqdvugm.png)</figure>
+![](/images/7fbc0-0hik-bkkzgqqdvugm.png)
 
 **Use Automatic Folder Import To Your Advantage**
 
 You can easily configure Evernote to index the files in a folder. I use this in combination with a PDF printer like Adobe PDF Distiller, CutePDF or saving as a PDF with Office to “Print to Evernote” from within applications like Microsoft Word, where directly importing the Word document into Evernote doesn’t create as nice of an indexable note.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/12/3088a-0acfi_snjxwuhjb_2.png)</figure>
+<figure>![](/images/3088a-0acfi_snjxwuhjb_2.png)
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/12/dd44d-0iwcxy7feidoyu-wz.png)</figure>
+<figure>![](/images/dd44d-0iwcxy7feidoyu-wz.png)
 
 In this case, Evernote is configured to delete the file as soon as it’s imported. This way you don’t have duplicate files sitting around and you know when it’s gone, it’s in Evernote.
 
@@ -102,9 +102,9 @@ The [Evernote Trunk](http://www.evernote.com/about/trunk/) is a collection of ap
 
 One program I use on my iPhone is called [JotNot](http://www.evernote.com/about/trunk/items/jotnot?lang=en&layout=default&source=mobile_page), it turns your iPhone camera into a mobile scanner for taking pictures and easily importing things like receipts or product stickers. JotNot dumps all the extra data in the image, converts it to black and white and enhances it for viewing later and to cut down on file size to make it easy to upload from a mobile data connection.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/12/71a9d-016gzhphqoq0azywl.jpg)</figure>
+<figure>![](/images/71a9d-016gzhphqoq0azywl.jpg)
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/12/9cd29-04nj4zwneus0qgutm.jpg)</figure>
+<figure>![](/images/9cd29-04nj4zwneus0qgutm.jpg)
 
 JotNot can also send your image a variety of other places. But it’s just one example of applications that extend the functionalty of the platform.
 

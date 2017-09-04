@@ -2,6 +2,8 @@
 title: My essential 10 iOS apps
 layout: post
 permalink: /my-top-10-ios-apps-7887c2973b67
+featured_image: /images/9431c-10dxxbsotg_kggmczml5a2a.jpeg
+featured_alt: iPhone 5
 ---
 
 Two weeks ago, after regretfully trying to use the iOS 11 developer betas on my primary devices, I was forced by general instability to roll back to iOS 10.

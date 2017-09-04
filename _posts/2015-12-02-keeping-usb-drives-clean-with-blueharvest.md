@@ -9,7 +9,7 @@ I’ve long been annoyed with copying files to a USB stick, and then handing the
 
 Recently I found [BlueHarvest](http://www.zeroonetwenty.com/blueharvest/), which runs $15 and has a 30-day trial, and it’s appears to be the new solution to my problem. It automatically cleans the OS X specific files on any non-Mac formatted (exFAT, FAT32) drive that enters the system.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2015/12/af36e-0xwdvrwq7nxnd6gu2.png)</figure>
+![](/images/af36e-0xwdvrwq7nxnd6gu2.png)
 
 The results have been great, and my portable drives are now very clean.
 

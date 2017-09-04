@@ -2,14 +2,10 @@
 layout: post
 title: Hewlett Packard Enterprise goes public, splitting HP into two companies
 date: 2015-11-03 16:05
+featured_image: /images/2703b-0s9-9satswrgtkvsn.jpg
+featured_alt: Hmm, servers.
 ---
 
-
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2015/11/2703b-0s9-9satswrgtkvsn.jpg)
-
-<figcaption class="wp-caption-text">Hmm, servers.</figcaption>
-
-</figure>
 
 On Monday, Hewlett Packard Enterprise (HPE) Chief Executive Officer Meg Whitman, as well as partners and customers, rang the opening bell at the New York Stock Exchange, and with it the long planned separation of the HP’s consumer and enterprise businesses became official.
 

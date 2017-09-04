@@ -17,7 +17,7 @@ But what about every other site (or even the four mentioned above) … where yo
 
 **Password Management**
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/12/4ac55-0wjxujndhlgbmzg1y.png)</figure>
+![](/images/4ac55-0wjxujndhlgbmzg1y.png)
 
 Who hasn’t seen the Internet Explorer password prompt at least 10,000 times in their lives? Or the similar prompts from Firefox, Safari, Chrome, Opera, etc. Almost every browser created in this decade has included some sort of password manager, and almost anyone who has used them will tell you they’re all crap.
 
@@ -89,7 +89,7 @@ What it amounts to, is that without both your master password and your YubiKey, 
 
 But all this work is futile if you continue to use the same passwords as before, or allow the same passwords to be used on multiple websites or systems. Thankfully, LastPass provides an interesting tool called the Security Challenge that will locally decrypt and analyze your passwords, look for weak passwords and let you know what duplicates exist. I was shocked the first time I ran the analyzer, but now I work to squeak out every last bit to raise my score each week.
 
-<figure>![](https://vmstanblog.files.wordpress.com/2010/12/ae76b-0iqka0bssu5vmjlc5.png)</figure>
+![](/images/ae76b-0iqka0bssu5vmjlc5.png)
 
 At this point I’m regularly generating 12–16 character random and complex passwords for every site I have accounts on. According to the latest score I’m among the top 1000 users of the tool ranking 942nd overall. Look out 941, I’m R*HaVn87V@aefzw@-ing for you.
 

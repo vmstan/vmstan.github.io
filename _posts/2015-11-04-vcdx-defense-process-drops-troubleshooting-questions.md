@@ -2,15 +2,10 @@
 layout: post
 title: VCDX defense process drops troubleshooting questions
 date: 2015-11-04 09:42
+featured_image: /images/49bb0-0an85nupgwowrkoh9.jpg
+featured_alt: You didn’t really want to ask me that, did you?
 ---
 
-
-
-<figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2015/11/49bb0-0an85nupgwowrkoh9.jpg)
-
-<figcaption class="wp-caption-text">You didn’t really want to ask me that, did you?</figcaption>
-
-</figure>
 
 Those who are looking to obtain the highest certification level in VMware’s portfolio, watch out, the company announced [in a blog post by Chris Colletti](https://blogs.vmware.com/education/author/chris_colotti) that they’ve made an adjustment to the process.
 
@@ -22,11 +17,9 @@ Previously candidates would defend one of their own designs that had been pre-su
 
 Reaction from current VCDX holders in the community has been mixed on social media, but trending mostly positive.
 
-> _I approve of dropping troubleshooting from the_ [_#VCDX_](https://twitter.com/hashtag/VCDX?src=hash) _defense. Never felt it was a good fit._
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I approve of dropping troubleshooting from the <a href="https://twitter.com/hashtag/VCDX?src=hash">#VCDX</a> defense. Never felt it was a good fit.</p>&mdash; Jason Nash (@TheJasonNash) <a href="https://twitter.com/TheJasonNash/status/661579975213101057">November 3, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> _— Jason Nash (@TheJasonNash)_ [_November 3, 2015_](https://twitter.com/TheJasonNash/status/661579975213101057)
-
-Last week VMware announced a new crop of VCDX holders, bringing the total up to 213\. The next defense is November 9, for VCDX-NV candidates, and February 15, for VCDX-DCV. Applications for the February defense are due by December 11, 2015.
+Last week VMware announced a new crop of VCDX holders, bringing the total up to 213. The next defense is November 9, for VCDX-NV candidates, and February 15, for VCDX-DCV. Applications for the February defense are due by December 11, 2015.
 
 * * *
 
