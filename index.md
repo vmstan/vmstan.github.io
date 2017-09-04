@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit 5 %}
 
 {% if post.external_url %}
 
@@ -18,7 +18,7 @@ layout: default
 {% if post.lead %}
 <div class="entry">{{ post.lead }}</div>
 {% else %}
-<div class="entry">{{ post.excerpt }}</div>
+<div class="entry">{{ post.content }}</div>
 {% endif %}
 
 
