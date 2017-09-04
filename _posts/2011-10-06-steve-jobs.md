@@ -9,13 +9,13 @@ One hundred years from now, people will talk about Steve Jobs the same way we do
 
 Regardless, he was an an inventor, a visionary, a man full of ideas. He was more than just any businessman, CEO to Apple, he personally held patents for many of the technologies used in their products. He was the perfect mix of creative genius and salesman. In the tech world, Steve Jobs was elevated to near deity-like status, but as cancer proved, he was still just a man.
 
-> _Every CEO of every company on the planet should pay attention to this right now and ask themselves, “why won’t this happen when I die?” (_[_@jayfanelli_](https://twitter.com/#!/jayfanelli/status/121751079519129601)_)_
+> Every CEO of every company on the planet should pay attention to this right now and ask themselves, “why won’t this happen when I die?” ([@jayfanelli](https://twitter.com/#!/jayfanelli/status/121751079519129601))
 
 I tried to sit down and put together my thoughts on his passing last night, but couldn’t. I was too overcome with the emotions pouring out from people across the world on Twitter. I shared some of my own but it was interesting to watch [the wake](https://twitter.com/#!/inkblurt/status/121778145635483650) for a man happen in real time from people all across the world. People who loved and hated him all had emotions to share.
 
 Even President Obama [had something to say](http://www.whitehouse.gov/blog/2011/10/05/president-obama-passing-steve-jobs-he-changed-way-each-us-sees-world):
 
-> _The world has lost a visionary. And there may be no greater tribute to Steve’s success than the fact that much of the world learned of his passing on a device he invented. Michelle and I send our thoughts and prayers to Steve’s wife Laurene, his family, and all those who loved him._
+> The world has lost a visionary. And there may be no greater tribute to Steve’s success than the fact that much of the world learned of his passing on a device he invented. Michelle and I send our thoughts and prayers to Steve’s wife Laurene, his family, and all those who loved him.
 
 But I’m not sure those outside of the technology community could really feel the impact the way we all did. My wife didn’t understand last night why I was grieving for a man I’d never met, the founder of a company that now rivals ExxonMobil as the world’s largest. Without meeting him, Steve Jobs had a profound impact on my life. I credit him (and Bill Gates) for sparking my interest in technology… for making me what I am today.
 
@@ -25,7 +25,7 @@ The Apple II, the Macintosh, Pixar (who doesn’t love Toy Story), iPod, iPhone,
 
 In my article last week, prior to the announcement of the iPhone 4S, I said this:
 
-> _I still maintain that Steve Jobs will be present at the announcement, even after his recent retirement as Apple CEO. I think he will be there to hand it off to Tim Cook in some way, or perhaps participate in some FaceTime chat to highlight a new iOS 5 feature._ **_At the very least, his presence will be felt._**
+> I still maintain that Steve Jobs will be present at the announcement, even after his recent retirement as Apple CEO. I think he will be there to hand it off to Tim Cook in some way, or perhaps participate in some FaceTime chat to highlight a new iOS 5 feature. **At the very least, his presence will be felt.**
 
 There was an empty chair, in the front row of the hall, with a cloth wrapped around it marked Reserved. That was no doubt a chair for Steve, one he wouldn’t be in because of what we all now know. I think Apple knew this was coming soon, and probably played the announcement a bit low-key as to not attempt to overshadow what could have probably happened any day. That said, I have no doubt that Steve wanted to see one last keynote, one last product launch, before he passed on. His presence was felt. His presence will continue to be felt with every future Apple product.
 

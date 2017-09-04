@@ -7,7 +7,7 @@ date: 2011-01-11 00:00
 
 In a [surprise announcement](http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html) on the Chromium Blog today, Google announced that they would be phasing out H.264 support from the Google Chrome web browser, in favor of the open sourced [WebM](http://www.webmproject.org/) standard. The announcement further muddies the waters of HTML5 video support.
 
-> _To that end, we are changing Chrome’s HTML5 <video> support to make it consistent with the codecs already supported by the open Chromium project. Specifically, we are supporting the WebM (VP8) and Theora video codecs, and will consider adding support for other high-quality open codecs in the future. Though H.264 plays an important role in video, as our goal is to enable open innovation, support for the codec will be removed and our resources directed towards completely open codec technologies._
+> To that end, we are changing Chrome’s HTML5 `<video>` support to make it consistent with the codecs already supported by the open Chromium project. Specifically, we are supporting the WebM (VP8) and Theora video codecs, and will consider adding support for other high-quality open codecs in the future. Though H.264 plays an important role in video, as our goal is to enable open innovation, support for the codec will be removed and our resources directed towards completely open codec technologies.
 
 What is unclear is how Google can on one hand say that their goal is to enable open innovation, and yet still justify bundling the proprietary Adobe Flash plugin with Chrome.
 
