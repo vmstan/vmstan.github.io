@@ -6,7 +6,7 @@ layout: default
 
 {% if post.external_url %}
 
-<h3><a href="{{ post.url }}">{{ post.title }}</a> via <a href="{{ post.external_url }}">{{ post.host }}</a> &#8594;</h3>
+<h3><a href="{{ post.url }}">{{ post.title }}</a> via {{ post.host }} <a href="{{ post.external_url }}">&#8594;</a></h3>
 
 {% else %}
 

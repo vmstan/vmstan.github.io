@@ -5,7 +5,7 @@ date: 2015-07-08 02:53
 ---
 
 
-> _Symantec has confirmed the existence of a new zero-day vulnerability in Adobe Flash which could allow attackers to remotely execute code on a targeted computer. Since details of the vulnerability are now publicly available, it is likely attackers will move quickly to exploit it before a patch is issued._
+> Symantec has confirmed the existence of a new zero-day vulnerability in Adobe Flash which could allow attackers to remotely execute code on a targeted computer. Since details of the vulnerability are now publicly available, it is likely attackers will move quickly to exploit it before a patch is issued.
 
 I have been limiting my exposure to Flash for a while.
 

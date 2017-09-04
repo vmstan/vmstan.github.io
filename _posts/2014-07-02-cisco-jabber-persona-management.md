@@ -15,6 +15,6 @@ The issue was resolved by adjusting Persona Management group policies to precach
 
 Modify the Persona Management GPO setting “Files and folders to preload” to include the following directory:
 
-    AppDataRoamingCiscoUnified CommunicationsJabberCSF
+    AppData\Roaming\Cisco\Unified Communications\Jabber\CSF
 
 Server settings, custom adjustments to the client are now maintained across desktop sessions. WIN!

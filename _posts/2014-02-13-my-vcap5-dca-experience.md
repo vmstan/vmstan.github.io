@@ -11,7 +11,7 @@ I actually thought the test was a lot of fun. For the uninitiated, the test is u
 
 In other VMware exams, you’re given 60–70 multiple choice questions to regurgitate anwsers to. In the VCAP, you are given 26 different “projects” you have work your way though. I say projects because each of the 26 will vary in length and have multiple component problems to solve. Some may be straight foward, some far less so. For example, one question might be something to the effect of:
 
-> _Create a Distributed Switch called_ LabDSwitch _and a port group called_ LabPortGroup _that has two uplinks, then assign hosts 1 and 2 to this Distributed Switch._
+> Create a Distributed Switch called LabDSwitch and a port group called LabPortGroup that has two uplinks, then assign hosts 1 and 2 to this Distributed Switch.
 
 There would generally be more to it then that, but basically, you’re given a roadmap of what to do, what the examiners are looking for is that you know where to go and what processes to follow to do the task so that all of the network connectivity to your environment isn’t lost. More on that later.
 

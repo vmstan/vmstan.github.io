@@ -2,10 +2,9 @@
 layout: post
 title: Apple Watch
 date: 2015-03-09 19:37
-external_url: /images/e98a1-0kmesiol1umuc3yp_.jpeg
-external_alt: Apple Watch
+featured_image: /images/e98a1-0kmesiol1umuc3yp_.jpeg
+featured_alt: Apple Watch
 ---
-
 
 After months of industry speculation, Apple today released pricing for the new [Apple Watch](http://www.apple.com/watch/). As a registered iFanboy, I’m legally required to purchase one. I wasn’t even sure when they were originally announced last fall if I’d want one, but I’ve come around.
 

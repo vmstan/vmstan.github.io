@@ -13,9 +13,9 @@ But enough excuses…
 
 I did read the [exam blueprint](http://mylearn.vmware.com/mgrReg/plan.cfm?plan=44696&ui=www_cert), as with every certfification exam this is the best starting place to find out what will be covered. In order to save myself some time I’m going to plagerize what I wrote a few months ago after taking the VCAP-DCA exam to help explain the format for the test.
 
-> _For the uninitiated, the test is unlike any other exam in the VMware portfolio, and unlike any other exam I’ve taken for any other certification. It is 100% lab based. You have remote access to a VMware vSphere 5.0 environment, with a vCenter, two hosts, a collection of virtual machines, and pre-provisoned storage._
+> For the uninitiated, the test is unlike any other exam in the VMware portfolio, and unlike any other exam I’ve taken for any other certification. It is 100% lab based. You have remote access to a VMware vSphere 5.0 environment, with a vCenter, two hosts, a collection of virtual machines, and pre-provisoned storage.
 
-> _In other VMware exams, you’re given 60–70 multiple choice questions to regurgitate anwsers to. In the VCAP, you are given 26 different “projects” you have work your way though. I say projects because each of the 26 will vary in length and have multiple component problems to solve. Some may be straight foward, some far less so._
+> In other VMware exams, you’re given 60–70 multiple choice questions to regurgitate anwsers to. In the VCAP, you are given 26 different “projects” you have work your way though. I say projects because each of the 26 will vary in length and have multiple component problems to solve. Some may be straight foward, some far less so.
 
 In the case of this exam, the environment has more hosts and a newer version of vSphere. There are also 23 projects instead of 26\. The rest of it still stands.
 
