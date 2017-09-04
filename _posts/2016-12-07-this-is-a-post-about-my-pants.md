@@ -2,6 +2,7 @@
 layout: post
 title: This is a post about my pants
 date: 2016-12-07 19:40
+permalink: /this-is-a-post-about-my-pants-a0995c621d84
 featured_images: /images/c113a-1l9clcrnvwjtfifi5lw30aw.jpeg
 featured_alt: These pants are my bag, man. Wait, no, these pants came in this bag.
 ---

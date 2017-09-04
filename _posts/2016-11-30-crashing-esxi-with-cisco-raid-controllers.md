@@ -2,6 +2,7 @@
 layout: post
 title: Crashing ESXi with Cisco RAID controllers
 date: 2016-11-30 16:34
+permalink: /crashing-esxi-with-cisco-raid-controllers-3ebd52c38245
 ---
 
 

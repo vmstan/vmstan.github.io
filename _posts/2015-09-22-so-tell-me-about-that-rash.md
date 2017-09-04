@@ -2,6 +2,7 @@
 layout: post
 title: So, tell me about that rash
 date: 2015-09-22 15:20
+permalink: /so-tell-me-about-that-rash-2ad8f022b138
 ---
 
 

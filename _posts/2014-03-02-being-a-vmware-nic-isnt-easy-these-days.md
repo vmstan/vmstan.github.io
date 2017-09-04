@@ -2,6 +2,7 @@
 layout: post
 title: Being a VMware NIC isn’t easy these days
 date: 2014-03-02 21:28
+permalink: /being-a-vmware-nic-isn-t-easy-these-days-212544748b3b
 ---
 
 

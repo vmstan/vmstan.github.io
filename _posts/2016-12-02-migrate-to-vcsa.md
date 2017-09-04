@@ -2,6 +2,7 @@
 layout: post
 title: Migrate to VCSA
 date: 2016-12-02 20:21
+permalink: /migrate-to-vcsa-fad7a7faf5bc
 ---
 
 Last night I did my first customer migration from a Windows based vCenter to the VMware vCenter Server Appliance (VCSA) using the new 6.0 U2M utility.

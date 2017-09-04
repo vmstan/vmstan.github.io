@@ -2,6 +2,7 @@
 layout: post
 title: Apple Leather Case for iPhone 7
 date: 2016-12-08 19:57
+permalink: /apple-leather-case-for-iphone-7-36ed51a06b2b
 ---
 
 I have an on-again, off-again relationship with iPhone cases. I put them on. I take them off. I generally don’t like cases. I’ve only broken my iPhone one time and that was when my 6 Plus came out of my pocket attached to my hand, unintentionally, on a sticky day. My iPhone 5 and 6 were rarely in cases, and had minimal wear and tear. I’m usually pretty careful. I also buy AppleCare+ on them, even though I’m lucky enough to rarely need it.

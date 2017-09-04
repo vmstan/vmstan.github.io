@@ -2,6 +2,7 @@
 layout: post
 title: Use FQDNs when doing SMB on Isilon
 date: 2014-02-27 03:23
+permalink: /use-fqdns-when-doing-smb-on-isilon-f44a9f1ddbd7
 ---
 
 

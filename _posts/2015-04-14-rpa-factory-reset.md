@@ -2,6 +2,7 @@
 layout: post
 title: RPA ‘Factory Reset’
 date: 2015-04-14 16:47
+permalink: /rpa-factory-reset-b5c6dde9a520
 ---
 
 
