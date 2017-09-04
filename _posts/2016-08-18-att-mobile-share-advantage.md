@@ -4,9 +4,6 @@ title: AT&T Mobile Share “Advantage”
 date: 2016-08-18 19:44
 ---
 
-
-#### Prices go down, except when they go up.
-
 You know you have a problem when you get excited about plan changes on your cellular provider. Yesterday, [AT&T gave me a problem](http://about.att.com/story/att_introduces_mobile_share_advantage.html).
 
 <figure class="wp-caption">![](https://vmstanblog.files.wordpress.com/2016/08/7d9ea-1vw4zoza1upvaaldidemaig.jpeg)

@@ -17,6 +17,14 @@ layout: default
   {% endif %}
 
   <div class="entry">
+
+      {% if page.featured_image %}
+      
+        <img src="{{ page.featured_image }}" alt="{{ page.featured_alt }}"></img>
+      
+      {% else % }  
+      {% endif %}
+      
     {{ content }}
   </div>
   

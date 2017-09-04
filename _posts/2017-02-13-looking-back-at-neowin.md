@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Looking back at Neowin
-lead: It was the site that consumed my early 20s, but now I can barely remember why.
 date: 2017-02-13 17:58
 permalink: /looking-back-at-neowin-1641160e8653
 ---

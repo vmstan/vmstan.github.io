@@ -4,9 +4,7 @@ title: Stronger Together
 date: 2016-11-08 18:52
 ---
 
-#### I wasn’t going to get sucked into the 2016 election, then Donald Trump ran for President
-
-I’ve struggled with what to write about this election for months. I’m not shy about my opinions on social media but when it came down to going long form about making my arguments in this election, I’ve written and deleted more than can be known.
+I wasn’t going to get sucked into the 2016 election, then Donald Trump ran for President I’ve struggled with what to write about this election for months. I’m not shy about my opinions on social media but when it came down to going long form about making my arguments in this election, I’ve written and deleted more than can be known.
 
 I’ve always been deeper into politics than probably any of my friends and family. It started when I would watch Dana Carvy do his iconic impressions of both Bush and Perot on SNL during the 1992 election.
 

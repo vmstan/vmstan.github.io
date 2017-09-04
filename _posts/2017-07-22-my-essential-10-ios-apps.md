@@ -1,6 +1,5 @@
 ---
 title: My essential 10 iOS apps
-lead: What gets installed first on every new or restored iOS device.
 layout: post
 permalink: /my-top-10-ios-apps-7887c2973b67
 ---

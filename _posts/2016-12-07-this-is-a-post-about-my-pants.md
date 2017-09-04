@@ -4,9 +4,6 @@ title: This is a post about my pants
 date: 2016-12-07 19:40
 ---
 
-
-#### When you’re this tall, buying clothes can be difficult
-
 I have some strict requirements around work pants. My wife hates the “I can see your socks while you’re standing up” hipster look, so they have to be full length. Honestly it’d be a great look since I’m 6'4" but as a result I’m at a 36" inseam. I’m also currently 220lbs, which results in a 36" waist. I could probably lose some weight, but it’s not happening today.
 
 I also have a job that’s requires me to dress nicely to meet a customer in the morning, but be willing to crawl under raised floors and chuck 50# boxes around later that afternoon, without a change of clothes. Expensive slacks will get destroyed. Wearing jeans everyday is frowned upon. I also don’t want to deal with getting pants tailored.

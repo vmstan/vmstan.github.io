@@ -4,9 +4,6 @@ title: Cisco to audit code in wake of Juniper backdoor
 date: 2015-12-29 08:55
 ---
 
-
-#### This step is a preventative measure for Cisco and is not in response to a known weakness
-
 In the wake of [an announcement by Juniper](https://www.petri.com/juniper-finds-backdoor-exposing-encrypted-vpn-traffic) that after an internal code audit, they had uncovered two backdoors in the operating systems used in their NetScreen firewalls, Cisco has announced that they’re taking similar steps to perform an audit of their code.
 
 <figure>![](https://vmstanblog.files.wordpress.com/2015/12/4dc97-1dmu8q3fj6n_qo9xosnr7pa.jpeg)</figure>

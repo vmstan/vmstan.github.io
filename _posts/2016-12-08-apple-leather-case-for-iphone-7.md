@@ -4,10 +4,7 @@ title: Apple Leather Case for iPhone 7
 date: 2016-12-08 19:57
 ---
 
-
-#### I have an on-again, off-again relationship with iPhone cases. I put them on. I take them off.
-
-I generally don’t like iPhone cases. I’ve only broken my iPhone one time and that was when my 6 Plus came out of my pocket attached to my hand, unintentionally, on a sticky day. My iPhone 5 and 6 were rarely in cases, and had minimal wear and tear. I’m usually pretty careful. I also buy AppleCare+ on them, even though I’m lucky enough to rarely need it.
+I have an on-again, off-again relationship with iPhone cases. I put them on. I take them off. I generally don’t like cases. I’ve only broken my iPhone one time and that was when my 6 Plus came out of my pocket attached to my hand, unintentionally, on a sticky day. My iPhone 5 and 6 were rarely in cases, and had minimal wear and tear. I’m usually pretty careful. I also buy AppleCare+ on them, even though I’m lucky enough to rarely need it.
 
 I’ve owned a variety of third-party cases over the years, from vendors like Mophie, Incase, Spigen, and Speck. I try a lot of these other cases mostly to be a resource for more case-needy friends and family, on what or not to buy. However, the only cases I personally tolerate are the official Apple cases. There are situations where you might need or want something more substantial, like if you’re working in construction or taking your phone spear-fishing, but otherwise I feel like the simplicity of the Apple cases go a long way in keeping the style of the device.
 

@@ -4,8 +4,6 @@ title: Nutanix files for IPO
 date: 2015-12-23 11:01
 ---
 
-#### In case you thought that there wouldn’t be any further changes in the enterprise storage industry before the start of 2016
-
 Nutanix announced on Wednesday that it has filed a [Form S-1](http://www.sec.gov/Archives/edgar/data/1618732/000119312515411021/d937439ds1.htm) with the SEC for a proposed IPO.
 
 The number of shares being offered and the price of the offering have not yet been determined, although the company says it intends to raise a maximum of $200 million; Nutanix will be listed as “NTNX” on NASDAQ.
