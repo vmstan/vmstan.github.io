@@ -17,7 +17,7 @@ I admit, even though I’d read up on it, tested it in a lab, and heard other su
 
 But, it was not. The entire migration process took around 30 minutes, and was nearly flawless.
 
-[embed]https://twitter.com/vmstan/status/804521366745731072[/embed]
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This was my first customer VCSA migration. That utility is really amazeballs. No more old and busted physical Windows vCenter!</p>&mdash; Michael Stanclift (@vmstan) <a href="https://twitter.com/vmstan/status/804521366745731072">December 2, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I had more issues with the upgrade from 5.1 to 5.5 than anything else during this process. Somewhere during that 5.5 upgrade the main vCenter component quit communicating with the SSO and inventory service. There were no errors presented during the upgrade, but it resulted in not being able to login at all through the C# client, and numerous errors after eventually logging in as administrator@vsphere.local to the Web Client.
 
