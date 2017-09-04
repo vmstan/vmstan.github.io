@@ -16,6 +16,8 @@ This time I took the approach of installing only the apps that I know I need on 
 
 For the most part, these are the apps that if I couldn’t put anything else on my phone, I’d be able to make due. These are the apps that I interact with daily or that provide an essential service or workflow.
 
+<!--more-->
+
 ## 1Password
 
 [agilebits.com](https://agilebits.com/) | [@1Password](https://twitter.com/1password)

@@ -13,6 +13,8 @@ But there was a time before that, where I was “Marshalus” — and if you
 
 That’d have been mostly right, too.
 
+<!--more-->
+
 In late-2002, during my freshman year as a college journalism student, I was “hired” by Steve (Neobond) Parker to be a Gaming News Reporter for Neowin.net. I still remember the night it happened, sitting in my dorm room getting access to the news CMS at the time. I think my first post was something coming off of my previous obsession, Command & Conquer game modding.
 
 _As an aside, anyone reading this remember Federation Studios?_

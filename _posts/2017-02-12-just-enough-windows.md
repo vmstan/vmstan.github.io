@@ -15,6 +15,8 @@ These instructions are not all specific to VMware Fusion, but some are. This als
 
 This is a “light” optimization for my usage. It could it yours as well, if you have similar needs like running a small collection of utility type applications, such as a couple of EMC product deployment tools, or the old VMware client.
 
+<!--more-->
+
 ![](/images/27487-1lknvkdktmelm5lknlbtlmw.png)
 
 ### What edition of Windows 10

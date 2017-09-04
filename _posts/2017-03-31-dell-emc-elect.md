@@ -9,6 +9,8 @@ I’m going to start this by saying something that might seem strange for a post
 
 I decided to temporarily set my Twitter account private for a few days last week, something I’d never done in nine years on the service. The only thing I learned from that, is that having a private Twitter account sucks. Over the last few months, I’ve unfollowed and set mute filters for topics that generated more noise than signal. I’ve tried to step back and get some perspective on what’s going on in the world right now.
 
+<!--more-->
+
 But at a larger level, it feels like we’ve all lost our minds, and our awareness that the things we say and do to other people have consequences, emotionally, and physically. [John Mark Troyer](https://twitter.com/jtroyer), in his latest [TechReckoning Dispatch](http://us9.campaign-archive2.com/?u=57f5f9c5c4e0a0921fae5a97b&id=0193d3a7fa&e=b9a828892d), touched on it in a way that I think really resonated with me:
 
 > It turns out a lot of us are taking a good hard look at social media and how it is affecting our psyches and how we spend our time. Some people are opting out completely, especially off Facebook. Some people are using tools to block out distractions during the day.

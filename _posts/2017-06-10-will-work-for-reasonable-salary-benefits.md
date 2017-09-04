@@ -15,6 +15,8 @@ My process was around the same time that my friend [@davemhenry](https://twitter
 
 Someone [eventually hired Dave](http://geekfluent.com/2017/05/22/job-search-successful-im-headed-to-the-cloud/).
 
+<!--more-->
+
 I have never used a third-party recruiter in any of my job quests. I’ve always been a direct applicant and it was no different this time. I’m sure people have had good success with external recruiters, but I’ve never tried. I’ve [shared my thoughts](https://vmstan.com/new-recruit-er-239b48359021) before, on that process.
 
 It just seems like even direct recruiters could do better to make the process suck less for the people on the other end. If the application, interview and waiting process is completely crushing all your enthusiasm, what does that say about your future if you’re offered a job there?

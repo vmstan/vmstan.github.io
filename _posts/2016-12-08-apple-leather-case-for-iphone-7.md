@@ -7,6 +7,8 @@ permalink: /apple-leather-case-for-iphone-7-36ed51a06b2b
 
 I have an on-again, off-again relationship with iPhone cases. I put them on. I take them off. I generally don’t like cases. I’ve only broken my iPhone one time and that was when my 6 Plus came out of my pocket attached to my hand, unintentionally, on a sticky day. My iPhone 5 and 6 were rarely in cases, and had minimal wear and tear. I’m usually pretty careful. I also buy AppleCare+ on them, even though I’m lucky enough to rarely need it.
 
+<!--more-->
+
 I’ve owned a variety of third-party cases over the years, from vendors like Mophie, Incase, Spigen, and Speck. I try a lot of these other cases mostly to be a resource for more case-needy friends and family, on what or not to buy. However, the only cases I personally tolerate are the official Apple cases. There are situations where you might need or want something more substantial, like if you’re working in construction or taking your phone spear-fishing, but otherwise I feel like the simplicity of the Apple cases go a long way in keeping the style of the device.
 
 I’ve owned just about every iteration of the Apple Leather Cases since they started making them around the time of the iPhone 5S. That was a good case, but it was for a device that really didn’t need one. Even for the price, I think Apple leather case is a great value. It’s got a nice amount of grip, without being so grippy it gets stuck coming out of pant pockets like with the Apple silicone case. The leather also just has a much more premium look to it. It ages and over time, which some people like. Apple calls this “a natural patina” … it’s just a gradual darkening of the material as it obsorbs the oils of your hands.
