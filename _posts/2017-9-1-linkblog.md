@@ -1,5 +1,5 @@
 ---
-title: Centrism - A Moderate Manifesto
+title: Centrism, a moderate manifesto
 host: Quillette
 external_url: http://quillette.com/2017/08/29/centrism-moderate-manifesto/
 ---
