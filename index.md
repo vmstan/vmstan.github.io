@@ -15,7 +15,7 @@ layout: default
 {% endif %}
 
 {% if post.external_url %}
-<li><a href="{{ post.url }}">{{ post.title }}</a> via {{ post.host }} <a href="{{ post.external_url }}">&#8594;</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a> via {{ post.host }} <a href="{{ post.external_url }}"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></li>
 {% else %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}
