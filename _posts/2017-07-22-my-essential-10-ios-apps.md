@@ -58,17 +58,17 @@ It’s a calculator. I mean, not really a lot to say here. I suck at math, so I 
 
 I started using Workflow a few months ago, and now I have built enough little scripts with it, that help me get things done faster, that it’s become a part of my essential kit. Tip calculator, sending items to Tweetbot, getting public links to iCloud documents, cleaning up screenshots in my Photo Library… just to name a few. The app was recently acquired by Apple, and is now free.
 
-## [Things](https://culturedcode.com/things/)
+### [Things](https://culturedcode.com/things/)
 
 There are many to-do list applications I’m not totally married to this one, and occasionally I will just go back to the stock Reminders app (or use my #9 pick’s integration with them) but right now it’s Things.
 
-## [Fantastical](https://flexibits.com/)
+### [Fantastical](https://flexibits.com/)
 
 Fantastical takes the stock Calendar application and turns it up a notch. It integrates with the system calendar and reminder synchronization to pull in iCloud, Exchange or Google data but it just presents them in a far more useful way than the stock app.
 
 These days my current employer forces the use of Good as an corporate email/calendaring app, so Fantastical is really just for my personal and shared/family calendar, but I’m hoping corporate policies change to allow native Exchange integration at some point.
 
-## [Nomorobo](https://www.nomorobo.com/)
+### [Nomorobo](https://www.nomorobo.com/)
 
 My phone number is on a list somewhere, multiple lists probably. I get a lot of crap phone calls, sometimes a dozen a day. Well, at least I used to, until I subscribed to Nomorobo. It integrates with iOS to act as a blacklist for known robocallers and spammers. It’s not perfect, and some still slip through, but it’s better than nothing.
 
