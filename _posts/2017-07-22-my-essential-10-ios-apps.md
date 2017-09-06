@@ -34,7 +34,7 @@ At this point, I’ve been a Tweetbot user for so long, I don’t even know how 
 
 There are a few features you lose by going with a third party app, like group DM, but its advanced keyword muting, gestures, plus the clean and “traditional” timeline/tweet view, keep me hooked.
 
-### [Overcast](https://overcast.fm/) | [@OvercastFM](https://twitter.com/OvercastFM)
+### [Overcast](https://overcast.fm/)
 
 This has been my podcast player of choice since it came out a few years ago. The syncing between devices works great, and it has a nice clean design. What really motivates me to keep using it though is Voice Boost and Smart Speed, which cleans up the audio on even the most well produced podcasts, and saves you time listening to dead air.
 
@@ -72,7 +72,7 @@ These days my current employer forces the use of Good as an corporate email/cale
 
 My phone number is on a list somewhere, multiple lists probably. I get a lot of crap phone calls, sometimes a dozen a day. Well, at least I used to, until I subscribed to Nomorobo. It integrates with iOS to act as a blacklist for known robocallers and spammers. It’s not perfect, and some still slip through, but it’s better than nothing.
 
-## [Cloak](https://www.getcloak.com/)
+### [Cloak](https://www.getcloak.com/)
 
 If you were counting, this would be #11. Didn’t I say there were 10? Yes I did. Tough. This one is too important not to include. Cloak is my VPN provider of choice, for use when connecting to insecure wireless at hotels, coffee shops, etc. I don’t leave home without it. It automatically activates on unknown networks, and can even work around captive portals.
 
