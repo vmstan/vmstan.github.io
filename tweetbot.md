@@ -6,7 +6,7 @@ layout: page
 ### Usage
 
 - Copy and Paste into Tweetdeck mute filter
-- Make sure you select "Registered Expression"
+- Make sure you select "Regular Expression"
 - Relax
 
 _If you're updating from an older version of the filter, be sure to delete the previous entry first and create a new one!_
