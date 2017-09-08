@@ -28,7 +28,7 @@ Cisco is very particular about making ESXi drivers for their components match th
 
 With this particular customer, we were also impacted by a variety of issues relating to the health of the DNS and Active Directory environment. With that in mind, we decided to focus on fixing the other environmental issues and in the meantime, not overload the UCS box until a deeper analysis could be done.
 
-#### On to the second install
+## Try Try Again
 
 A day or so into the second setup at another customer, and I encountered the exact same issues. This time with a Windows 10 x64 image, and View 7.0.2\. The same crazy latency numbers under any amount of significant load, until the entire box stopped responding.
 
@@ -46,7 +46,7 @@ I left those drivers enabled, and the customer ran a series of agressive Postgre
 
 So, long story short, if you’re using local RAID sets for anything other than some basic boot volumes that don’t need any serious I/O, with the Cisco 12G RAID controller, you don’t want to use the Cisco recommended drivers.
 
-#### Installation instructions
+## Installation instructions
 
 *   [Download the new driver (for ESXi 6.0 U2)](https://my.vmware.com/group/vmware/details?downloadGroup=DT-ESX60-LSI-SCSI-MEGARAID-SAS-66081600-1OEM&productId=491)
 *   Extract the .vib file from the driver bundle and copy it to a datastore on the host
