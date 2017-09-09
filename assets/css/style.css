@@ -36,6 +36,10 @@ a:active, a:hover {
     outline: 0
 }
 
+a.page-header {
+    color: #ffffff
+}
+
 abbr[title] {
     border-bottom: 1px dotted
 }
