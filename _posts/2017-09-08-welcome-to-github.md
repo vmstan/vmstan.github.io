@@ -2,7 +2,7 @@
 title: Welcome to GitHub Pages
 layout: post
 featured_image: /images/octocat.png
-featured_alt: Octocat
+featured_alt: GitHub Octocat
 ---
 
 If you’re reading this, you’re viewing my blog content that has been moved from Medium to GitHub Pages. This marks yet another time I’ve moved the content out of one CMS and into another. I’m not sure that I’ve accounted for all the ways I’ve made myself do this since I started maintaining this site in one form or another, but I’ve now powered this place on at least:
