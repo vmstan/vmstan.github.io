@@ -36,8 +36,12 @@ a:active, a:hover {
     outline: 0
 }
 
-a.page-header {
+a.page-header:link {
     color: #ffffff
+}
+
+a.page-header:hover {
+    text-decoration: none
 }
 
 abbr[title] {
