@@ -36,14 +36,6 @@ a:active, a:hover {
     outline: 0
 }
 
-a.page-header:link {
-    color: #ffffff
-}
-
-a.page-header:hover {
-    text-decoration: none
-}
-
 abbr[title] {
     border-bottom: 1px dotted
 }
@@ -549,6 +541,14 @@ a:hover {
     text-align: center;
     background-color: #159957;
     background-image: linear-gradient(120deg, #155799, #159957)
+}
+
+.page-header a:link {
+    color: #ffffff
+}
+
+.page-header a:hover {
+    text-decoration: none
 }
 
 @media screen and (min-width: 64em) {
