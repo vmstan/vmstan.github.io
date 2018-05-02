@@ -1,11 +1,28 @@
-theme: jekyll-theme-cayman
+# Site settings
 title: Virtually Benevolent
-description: Michael Stanclift
+author: Michael Stanclift
+description: VMware TAM
 permalink: /:year/:month/:title
-excerpt_separator: <!--more-->
-plugins:
-   - jekyll-mentions
-   - jemoji
-   - jekyll-redirect-from
-   - jekyll-sitemap
-   - jekyll-feed
+url: vmstan.github.io
+baseurl: ""
+
+# Build settings
+port: 4000
+exclude: [ "node_modules", "package.json", "*.log", "scripts", "src", "LICENSE" ]
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Blog settings
+permalink: /:year/:month/:title/
+
+# Defaults for post layouts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      type: "post"
