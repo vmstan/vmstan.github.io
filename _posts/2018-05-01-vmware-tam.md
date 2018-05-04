@@ -1,5 +1,5 @@
 ---
-title: @vmware
+title: VMware TAM
 layout: post
 ---
 
