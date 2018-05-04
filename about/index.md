@@ -7,7 +7,16 @@ resume: I'm not a perfect person. There's many things I wish I didn't do. Like r
 
 > An experienced systems engineer, in a variety of roles and environments. Recognized for continued and evangelism and engagement with the virtualization community, Michael has been honored as a VMware vExpert since 2013, a Cisco Champion for Data Center in 2015, and as a Dell EMC Elect in 2017.
 
-## Experience
+## Personal Technology
+
+I use mostly Apple products for my computing needs. I have at my disposal:
+
+* Apple MacBook Pro 15" 2017 in Space Gray (provided by VMware)
+* Apple iPhone 7 in Silver
+* Apple iPad Pro 10.5" in Silver
+* Apple Watch 2 in Silver
+
+## Corporate Overlords
 
 I'm currently a Technical Account Manager for **VMware** focused on healthcare clients.
 
