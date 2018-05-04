@@ -1,0 +1,47 @@
+<head>
+  {% if page.type %}{% capture type %}{{ page.type }}{% endcapture %}{% endif %}
+
+  {% if page.title %}{% capture title %}{{ page.title }}{% endcapture %}
+  {% else %}{% capture title %}{{ site.title }}{% endcapture %}
+  {% endif %}
+
+  {% if page.resume %}{% capture description %}{{ page.resume }}{% endcapture %}
+  {% else %}{% capture description %}{{ site.description }}{% endcapture %}
+  {% endif %}
+
+  {% capture url %}{{ site.url }}{{ page.url | prepend: site.baseurl }}{% endcapture %}
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ url }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101010">
+
+  <!-- favicons -->
+  {% include favicons.html %}
+
+  <!-- twitter card meta -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@jeremenichelli">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:url" content="{{ url }}">
+  <meta name="twitter:image" content="{{ site.url | prepend: 'http://' }}/assets/images/avatar.jpg">
+
+  <script>
+    window.PAGE = '{{ type }}';
+    window.FONTS_LOADED = sessionStorage.getItem('fonts-loaded');
+  </script>
+
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700" as="style" crossorigin>
+
+  <style id="critical">
+  {% include global--styles.html %}
+  {% include {{ type }}--styles.html %}
+  </style>
+
+  <script>{% include critical--js.html %}</script>
+</head>

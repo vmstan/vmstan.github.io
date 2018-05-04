@@ -1,0 +1,26 @@
+{
+  "less": {
+    "files": "./src/less/{global,about,blog,error,home,post}.less",
+    "output": "./_includes/"
+  },
+  "js": {
+    "noncritical": {
+      "entry": "./src/js/noncritical/**/*.js",
+      "output": "./assets/js/site.js"
+    },
+    "critical": {
+      "entry": "./src/js/critical/**/*.js",
+      "output": "./_includes/critical--js.html"
+    }
+  },
+  "favicon": {
+    "entry": "./src/favicon/favicon.png",
+    "output": "./assets/favicon/",
+    "path": "/assets/favicon/",
+    "html": "./_includes/favicons.html"
+  },
+  "images": {
+    "entry": "./src/images/*.{jpeg,jpg}",
+    "output": "./assets/images/"
+  }
+}
