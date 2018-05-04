@@ -7,4 +7,4 @@ type: home
 
 [CURRENTLY @ VMWARE](https://vmstan.com)
 
-Find me on [Twitter](https://twitter.com/vmstan), [LinkedIn}(https://linkedin.com/in/stanclift) or&nbsp;[Github](https://github.com/vmstan).
+Find me on [Twitter](https://twitter.com/vmstan), [LinkedIn](https://linkedin.com/in/stanclift) or&nbsp;[Github](https://github.com/vmstan).
