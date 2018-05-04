@@ -23,4 +23,4 @@ For four years I was a Network Analyst for **Rockhurst University** which is a s
 
 Rockhurst is still just Rockhurst.
 
-Find me on [Twitter](https://twitter.com/vmstan), [LinkedIn]Í(https://linkedin.com/in/stanclift) or&nbsp;[Github](https://github.com/vmstan).
+Find me on [Twitter](https://twitter.com/vmstan), [LinkedIn](https://linkedin.com/in/stanclift) or&nbsp;[Github](https://github.com/vmstan).
