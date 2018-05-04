@@ -5,7 +5,23 @@ type: about
 resume: I'm not a perfect person. There's many things I wish I didn't do. Like reboot the wrong ESX host that one time...
 ---
 
-> An experienced systems engineer, in a variety of roles and environments. Recognized for continued and evangelism and engagement with the virtualization community, Michael has been honored as a VMware vExpert since 2013, a Cisco Champion for Data Center in 2015, and as a Dell EMC Elect in 2017.
+> An experienced systems engineer, in a variety of roles and environments. Recognized for continued and evangelism and engagement with the virtualization community, 
+
+## Community Engagement
+
+* VMware vExpert since 2013
+* Cisco Champion for Data Center in 2015
+* Dell EMC Elect in 2017
+* Tech Field Day 14 (2017) Delegate
+* Storage Field Day 15 (2018) Delegate
+
+## Certifications
+
+* VMware Certified Advanced Professional, Data Center Administration
+* VMware Certified Advanced Professional, Desktop Administration
+* VMware Certified Professional, Network Virtualization
+* Cisco Certified Networking Associate, Data Center (<font color="red">Expired</font>)
+* Dell EMC Implementation Engineer (<font color="606060">Isilon, VNX, RecoverPoint & Unity</font>)
 
 ## Personal Technology
 
