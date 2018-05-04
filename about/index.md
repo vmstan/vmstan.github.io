@@ -5,7 +5,7 @@ type: about
 resume: I'm not a perfect person. There's many things I wish I didn't do. Like reboot the wrong ESX host that one time...
 ---
 
-> An experienced systems engineer, in a variety of roles and environments. Recognized for continued and evangelism and engagement with the virtualization community, 
+> An experienced systems engineer, in a variety of roles and environments. Recognized for continued and evangelism and engagement with the virtualization community. 
 
 ## Community Engagement
 
