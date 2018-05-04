@@ -2,8 +2,10 @@
 layout: default
 title: About
 type: about
-resume: I'm not a perfect person. There's many things I wish I didn't do.
+resume: I'm not a perfect person. There's many things I wish I didn't do. Like reboot the wrong ESX host that one time...
 ---
+
+> An experienced systems engineer, in a variety of roles and environments. Recognized for continued and evangelism and engagement with the virtualization community, Michael has been honored as a VMware vExpert since 2013, a Cisco Champion for Data Center in 2015, and as a Dell EMC Elect in 2017.
 
 ## Experience
 

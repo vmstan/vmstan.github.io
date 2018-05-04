@@ -3,8 +3,8 @@ layout: default
 type: home
 ---
 
-> Hi there! I am a web developer. I build progressive user interfaces and write scalable code with a keen eye on performance and user experience.
+> An experienced systems engineer, in a variety of roles and environments. Recognized for continued and evangelism and engagement with the virtualization community, Michael has been honored as a VMware vExpert since 2013, a Cisco Champion for Data Center in 2015, and as a Dell EMC Elect in 2017.
 
 [CURRENTLY AVAILABLE FOR HIRE](mailto:jmenichelli@gmail.com)
 
-Find me on [medium](https://medium.com/@jeremenichelli), [twitter](https://twitter.com/jeremenichelli) or&nbsp;[github](https://github.com/jeremenichelli).
+Find me on [Twitter](https://twitter.com/vmstan), [LinkedIn}(https://linkedin.com/in/stanclift) or&nbsp;[Github](https://github.com/vmstan).
