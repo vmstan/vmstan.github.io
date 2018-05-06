@@ -3,8 +3,10 @@ layout: default
 type: home
 ---
 
-> An experienced systems engineer, in a variety of roles and environments. Recognized for continued and evangelism and engagement with the virtualization community, Michael has been honored as a VMware vExpert since 2013, a Cisco Champion for Data Center in 2015, and as a Dell EMC Elect in 2017.
+> ... I'm back, and ready to get to work doing what I love, for the company that I've spent the last decade focusing on, in the company of all the great people who've helped me get to this point.
 
-[NOW EVEN MORE VIRTUALIZED](/2018/05/vmware-tam/) &rarr;
+Latest: [VMware TAM](/2018/05/vmware-tam/)
 
-Find me on [Twitter](https://twitter.com/vmstan), [LinkedIn](https://linkedin.com/in/stanclift) or&nbsp;[Github](https://github.com/vmstan).
+[Twitter](https://twitter.com/vmstan) &rarr;
+[LinkedIn](https://linkedin.com/in/stanclift) &rarr;
+[Github](https://github.com/vmstan) &rarr;
