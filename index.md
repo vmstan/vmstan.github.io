@@ -7,6 +7,6 @@ type: home
 
 Latest: [VMware TAM](/2018/05/vmware-tam/)
 
-[Twitter](https://twitter.com/vmstan) &rarr;
-[LinkedIn](https://linkedin.com/in/stanclift) &rarr;
-[Github](https://github.com/vmstan) &rarr;
+* [Twitter](https://twitter.com/vmstan) &rarr;
+* [LinkedIn](https://linkedin.com/in/stanclift) &rarr;
+* [Github](https://github.com/vmstan) &rarr;
