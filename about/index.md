@@ -34,7 +34,7 @@ I use mostly Apple products for my computing needs. I have at my disposal:
 
 ## Corporate Overlords
 
-I'm currently a Technical Account Manager for **VMware** focused on healthcare clients.
+I'm currently a Technical Account Manager for **VMware** focused on healthcare clients. (Please note, all opinions expressed on social media are mine, and may not relect theirs.)
 
 Prior to that, I spent a year working as an Integration Engineer for **DST Systems** which is a financial services and healthcare technology provider. I put in my notice the same week [a transaction to purchase them](https://www.wsj.com/articles/ss-c-technologies-to-acquire-dst-systems-1515673275) was going through, for $5.4 billion. They're now owned by SS&C.
 
