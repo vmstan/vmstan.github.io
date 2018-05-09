@@ -9,7 +9,7 @@ resume: I'm not a perfect person. There's many things I wish I didn't do. Like r
 
 ## Community Engagement
 
-> IT is not just about what happens in the 9-5. It’s engagement with the community that surrounds the infrastructure ecosystem
+> IT is not just about what happens in the 9 to 5 -- it’s engagement with the community that surrounds the infrastructure ecosystem
 
 * VMware vExpert since 2013
 * Dell EMC Elect since 2017
@@ -24,17 +24,21 @@ resume: I'm not a perfect person. There's many things I wish I didn't do. Like r
 * VMware Certified Advanced Professional, Data Center Administration
 * VMware Certified Advanced Professional, Desktop Administration
 * VMware Certified Professional, Network Virtualization
-* Cisco Certified Networking Associate, Data Center (<font color="red">Expired</font>)
-* Dell EMC Implementation Engineer (<font color="606060">Isilon, VNX, RecoverPoint & Unity</font>)
+* Cisco Certified Networking Associate, Data Center <font color="pink">(Expired)</font>
+* Dell EMC Implementation Engineer <font color="gray">(Isilon, RecoverPoint, VNX & Unity)</font>
 
 ## Personal Technology
 
-I use mostly Apple products for my computing needs. I have at my disposal:
+I try to have mostly Apple products at my disposal for my daily computing needs.
 
 * Apple MacBook Pro 15" 2017 in Space Gray (provided by VMware)
 * Apple iPhone 7 in Silver
 * Apple iPad Pro 10.5" in Silver
 * Apple Watch 2 in Silver
+
+In terms of software, I try to leverage the first party Apple applications whenever possible. I prefer using the native Mail, Calendar and Contact applications on each platform, unless I need to open Outlook to schedule meetings or set out of office notcies.
+
+On iOS, I do have a collection of third party applications that I can't go without. Chiefly among these are 1Password, Overcast and Things. More of them can be found [here](https://vmstan.com/my-top-10-ios-apps-7887c2973b67).
 
 ## Corporate Overlords
 
