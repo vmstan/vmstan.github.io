@@ -5,11 +5,11 @@ type: about
 resume: I'm not a perfect person. There's many things I wish I didn't do. Like reboot the wrong ESX host that one time...
 ---
 
-> IT isn't just my career; it's a dedication to understanding technology, engineering solutions and empowering administrators and developers to drive their businesses forward.
+> IT isn't just my career; it's a dedication to understanding technology, engineering solutions and empowering administrators and developers to drive their businesses forward
 
 ## Community Engagement
 
-> IT is not just about what happens in the 9-5. It’s engagement with the community that surrounds the infrastructure ecosystem.
+> IT is not just about what happens in the 9-5. It’s engagement with the community that surrounds the infrastructure ecosystem
 
 * VMware vExpert since 2013
 * Dell EMC Elect since 2017
