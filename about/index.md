@@ -5,9 +5,11 @@ type: about
 resume: I'm not a perfect person. There's many things I wish I didn't do. Like reboot the wrong ESX host that one time...
 ---
 
-> An experienced systems engineer, in a variety of roles and environments. Recognized for continued and evangelism and engagement with the virtualization community. 
+> IT isn't just my career; it's a dedication to understanding technology, engineering solutions and empowering administrators and developers to drive their businesses forward.
 
 ## Community Engagement
+
+> IT is not just about what happens in the 9-5. It’s engagement with the community that surrounds the infrastructure ecosystem.
 
 * VMware vExpert since 2013
 * Cisco Champion for Data Center in 2015
@@ -16,6 +18,8 @@ resume: I'm not a perfect person. There's many things I wish I didn't do. Like r
 * Storage Field Day 15 (2018) Delegate
 
 ## Certifications
+
+> IT is about continued learning, and continued certifications
 
 * VMware Certified Advanced Professional, Data Center Administration
 * VMware Certified Advanced Professional, Desktop Administration
