@@ -31,7 +31,7 @@ resume: I'm not a perfect person. There's many things I wish I didn't do. Like r
 
 I try to have mostly Apple products at my disposal for my daily computing needs.
 
-* Apple MacBook Pro 15" 2017 in Space Gray (provided by VMware)
+* Apple MacBook Pro 15" 2017 in Space Gray <font color="gray">(provided by VMware)</font>
 * Apple iPhone 7 in Silver
 * Apple iPad Pro 10.5" in Silver
 * Apple Watch 2 in Silver
