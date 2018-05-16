@@ -127,7 +127,7 @@ An interesting one to remove would be Internet Explorer. I typically use Firefox
 
 As for PowerShell you’ll likely want to keep this, especially in order to install and run VMware PowerCLI.
 
-#### Run the** [**VMware OS Optimization Tool**](https://labs.vmware.com/flings/vmware-os-optimization-tool)
+#### Run the [VMware OS Optimization Tool](https://labs.vmware.com/flings/vmware-os-optimization-tool)
 
 This tool is designed to run in VMware View desktops, and so while the overwhelming majority of the changes this tool makes are beneficial to us, there are a few things that I adjust to accommodate for the fact that this is one VM that I’ll be using, and not a template VM that will be used to roll out 1000 clones in a shared environment.
 
