@@ -5,8 +5,6 @@ type: about
 resume: I'm not a perfect person. There's many things I wish I didn't do. Like reboot the wrong ESX host that one time...
 ---
 
-![4 node cluster](/images/vb-icon256.png)
-
 > IT isn't just my career; it's a dedication to understanding technology, engineering solutions and empowering administrators and developers to drive their businesses forward
 
 ## Community Engagement
