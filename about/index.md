@@ -9,7 +9,7 @@ resume: I'm not a perfect person. There's many things I wish I didn't do. Like r
 
 ## Community Engagement
 
-> IT is not just about what happens in the 9 to 5 -- it’s engagement with the community that surrounds the infrastructure ecosystem
+> IT is not just about what happens in the 9-to-5 -- it’s engagement with the community that surrounds the infrastructure ecosystem
 
 * VMware vExpert since 2013
 * Dell EMC Elect since 2017
@@ -21,24 +21,24 @@ resume: I'm not a perfect person. There's many things I wish I didn't do. Like r
 
 > IT is about continued learning, and continued certifications
 
-* VMware Certified Advanced Professional, Data Center Administration
+* [VMware Certified Implementation Expert, Data Center Virtualization](https://www.youracclaim.com/badges/ca1312aa-5453-4aca-b63a-5653d2fa2f49/public_url)
 * VMware Certified Advanced Professional, Desktop Administration
-* VMware Certified Professional, Network Virtualization
-* Cisco Certified Networking Associate, Data Center <font color="pink">(Expired)</font>
-* Dell EMC Implementation Engineer <font color="gray">(Isilon, RecoverPoint, VNX & Unity)</font>
+* [VMware Certified Professional, Network Virtualization](https://www.youracclaim.com/badges/ff6ddaa9-4b94-4574-a9a6-809506df848d/public_url)
+* [Dell EMC Implementation Engineer](https://www.youracclaim.com/badges/23cfea7d-2262-47f5-9962-97fc419077db/public_url) <font color="gray">(Isilon, RecoverPoint, VNX & Unity)</font>
+* [Cisco Certified Networking Associate, Data Center](https://www.youracclaim.com/badges/169cdfe6-6e4e-4851-a102-eb100ef219d4/public_url) <font color="pink">(Expired)</font>
 
 ## Personal Technology
 
 I try to have mostly Apple products at my disposal for my daily computing needs.
 
 * Apple MacBook Pro 15" 2017 in Space Gray <font color="gray">(provided by VMware)</font>
-* Apple iPhone 7 in Silver
-* Apple iPad Pro 10.5" in Silver
-* Apple Watch 2 in Silver
+* Apple iPhone X in Silver on T-Mobile
+* Apple iPad Pro 10.5" in Silver w/ LTE
+* Apple Watch 2 in Silver Aluminium
 
 In terms of software, I try to leverage the first party Apple applications whenever possible. I prefer using the native Mail, Calendar and Contact applications on each platform, unless I need to open Outlook to schedule meetings or set out of office notcies.
 
-On iOS, I do have a collection of third party applications that I can't go without. Chiefly among these are 1Password, Overcast and Things. More of them can be found [here](https://vmstan.com/my-top-10-ios-apps-7887c2973b67).
+On iOS, I do have a collection of third party applications that I can't go without. Chiefly among these are 1Password and Overcast. More of them can be found [here](https://vmstan.com/my-top-10-ios-apps-7887c2973b67).
 
 ## Corporate Overlords
 
