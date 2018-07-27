@@ -11,11 +11,11 @@ resume: I'm not a perfect person. There's many things I wish I didn't do. Like r
 
 > IT is not just about what happens in the 9-to-5 -- it’s engagement with the community that surrounds the infrastructure ecosystem
 
-* VMware vExpert since 2013
-* Dell EMC Elect since 2017
+* [VMware vExpert since 2013](https://vexpert.vmware.com/directory/1494)
+* [Dell EMC Elect since 2017](https://community.emc.com/docs/DOC-57425)
 * Cisco Champion for Data Center in 2015
-* Tech Field Day 14 (2017) Delegate
-* Storage Field Day 15 (2018) Delegate
+* [Tech Field Day 14 (2017) Delegate](http://techfieldday.com/event/tfd14/)
+* [Storage Field Day 15 (2018) Delegate](http://techfieldday.com/event/sfd15/)
 
 ## Certifications
 
