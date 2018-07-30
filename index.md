@@ -3,9 +3,9 @@ layout: default
 type: home
 ---
 
-> ... I'm back, and ready to get to work doing what I love, for the company that I've spent the last decade focusing on, in the company of all the great people who've helped me get to this point.
+> ... Yesterday I passed the VCAP6.5-DCD exam, thus earning the VMware Certified Implementation Engineer - Data Center Virtulization “milestone”
 
-Latest: [VMware TAM](/2018/05/vmware-tam/)
+Latest: [VCIX](/2018/07/vcix/)
 
 * [Twitter](https://twitter.com/vmstan) &rarr;
 * [LinkedIn](https://linkedin.com/in/stanclift) &rarr;
