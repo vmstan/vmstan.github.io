@@ -32,11 +32,12 @@ resume: I'm not a perfect person. There's many things I wish I didn't do. Like r
 I try to have mostly Apple products at my disposal for my daily computing needs.
 
 * Apple MacBook Pro 15" 2017 in Space Gray <font color="gray">(provided by VMware)</font>
-* Apple iPhone X in Silver on T-Mobile
-* Apple iPad Pro 10.5" in Silver w/ LTE
-* Apple Watch 2 in Silver Aluminium
+* Apple iPhone X (256GB) in Silver on T-Mobile
+* Apple Watch 2 (42 mm) in Silver Aluminium
 
-In terms of software, I try to leverage the first party Apple applications whenever possible. I prefer using the native Mail, Calendar and Contact applications on each platform, unless I need to open Outlook to schedule meetings or set out of office notcies.
+In terms of software, I try to leverage the first party Apple applications whenever possible. Apple Notes is my goto for things I have to get down. I flip flop between Reminders and Things depending on how dedicated I am to my GTD program that month. 
+
+I've struggled with this recently, in terms of performance native integration with Office 365, while I prefer using the native Mail, Calendar and Contact applications on each platform, unless I need to open Outlook to schedule meetings or set out of office notcies. Recently I've been using Airmail on Mac along side Fantastical, and the VMware Boxer client on iOS. This combonation seems to be working well.
 
 On iOS, I do have a collection of third party applications that I can't go without. Chiefly among these are 1Password and Overcast. More of them can be found [here](https://vmstan.com/my-top-10-ios-apps-7887c2973b67).
 
